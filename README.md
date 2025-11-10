@@ -148,6 +148,7 @@ Steps:
 	 - [big](/writeups/forensics/Insider%20Threat/big)  
 	 - [bwnfools](/writeups/forensics/Insider%20Threat/bwnfools)  
  - **[Home Intrusion](/writeups/forensics/Home%20Intrusion)**
+	 - [Trånn Jånn](/writeups/forensics/Home%20Intrusion/Trånn%20Jånn)  
 ### pwn
  - **[Fiftiweb](/writeups/pwn/Fiftiweb)**
  - **[Badge Overflow](/writeups/pwn/Badge%20Overflow)**
