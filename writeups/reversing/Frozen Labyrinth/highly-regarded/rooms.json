@@ -1,0 +1,3469 @@
+{
+    "room_0": {
+        "locking_door_name": "DOORS",
+        "doors": {
+            "mutex": 102
+        }
+    },
+    "room_1": {
+        "locking_door_name": "stru_1D448",
+        "doors": {
+            "stru_1D470": 114,
+            "stru_1D830": 105,
+            "stru_1D510": 117
+        }
+    },
+    "room_2": {
+        "locking_door_name": "stru_1D470",
+        "doors": {}
+    },
+    "room_3": {
+        "locking_door_name": "stru_1D498",
+        "doors": {
+            "stru_1D4C0": 114
+        }
+    },
+    "room_4": {
+        "locking_door_name": "stru_1D4C0",
+        "doors": {}
+    },
+    "room_5": {
+        "locking_door_name": "stru_1D4E8",
+        "doors": {
+            "stru_1D5B0": 117
+        }
+    },
+    "room_6": {
+        "locking_door_name": "stru_1D510",
+        "doors": {
+            "stru_1D8F8": 105,
+            "stru_1E898": 102,
+            "stru_1D5D8": 117
+        }
+    },
+    "room_7": {
+        "locking_door_name": "stru_1D538",
+        "doors": {}
+    },
+    "room_8": {
+        "locking_door_name": "stru_1D560",
+        "doors": {
+            "stru_1E8E8": 102
+        }
+    },
+    "room_9": {
+        "locking_door_name": "stru_1D588",
+        "doors": {
+            "stru_1D560": 108
+        }
+    },
+    "room_10": {
+        "locking_door_name": "stru_1D5B0",
+        "doors": {}
+    },
+    "room_11": {
+        "locking_door_name": "stru_1D5D8",
+        "doors": {
+            "stru_1E960": 102,
+            "stru_1D600": 114,
+            "stru_1D6A0": 117
+        }
+    },
+    "room_12": {
+        "locking_door_name": "stru_1D600",
+        "doors": {}
+    },
+    "room_13": {
+        "locking_door_name": "stru_1D628",
+        "doors": {}
+    },
+    "room_14": {
+        "locking_door_name": "stru_1D650",
+        "doors": {}
+    },
+    "room_15": {
+        "locking_door_name": "stru_1D678",
+        "doors": {}
+    },
+    "room_16": {
+        "locking_door_name": "stru_1D6A0",
+        "doors": {
+            "stru_1D678": 108,
+            "stru_1D768": 117
+        }
+    },
+    "room_17": {
+        "locking_door_name": "stru_1D6C8",
+        "doors": {
+            "stru_1DAB0": 105
+        }
+    },
+    "room_18": {
+        "locking_door_name": "stru_1D6F0",
+        "doors": {}
+    },
+    "room_19": {
+        "locking_door_name": "stru_1D718",
+        "doors": {
+            "stru_1EAA0": 102
+        }
+    },
+    "room_20": {
+        "locking_door_name": "stru_1D740",
+        "doors": {
+            "stru_1DB28": 105
+        }
+    },
+    "room_21": {
+        "locking_door_name": "stru_1D768",
+        "doors": {
+            "stru_1D790": 114,
+            "stru_1DB50": 105,
+            "stru_1EAF0": 102
+        }
+    },
+    "room_22": {
+        "locking_door_name": "stru_1D790",
+        "doors": {}
+    },
+    "room_23": {
+        "locking_door_name": "stru_1D7B8",
+        "doors": {
+            "stru_1D6F0": 100,
+            "stru_1D7E0": 114
+        }
+    },
+    "room_24": {
+        "locking_door_name": "stru_1D7E0",
+        "doors": {
+            "stru_1D718": 100,
+            "stru_1DBC8": 105
+        }
+    },
+    "room_25": {
+        "locking_door_name": "stru_1D808",
+        "doors": {}
+    },
+    "room_26": {
+        "locking_door_name": "stru_1D830",
+        "doors": {}
+    },
+    "room_27": {
+        "locking_door_name": "stru_1D858",
+        "doors": {
+            "stru_1D920": 117
+        }
+    },
+    "room_28": {
+        "locking_door_name": "stru_1D880",
+        "doors": {
+            "stru_1D858": 108,
+            "stru_1D498": 111
+        }
+    },
+    "room_29": {
+        "locking_door_name": "stru_1D8A8",
+        "doors": {}
+    },
+    "room_30": {
+        "locking_door_name": "stru_1D8D0",
+        "doors": {
+            "stru_1D4E8": 111,
+            "stru_1D808": 100,
+            "stru_1DCB8": 105
+        }
+    },
+    "room_31": {
+        "locking_door_name": "stru_1D8F8",
+        "doors": {}
+    },
+    "room_32": {
+        "locking_door_name": "stru_1D920",
+        "doors": {
+            "stru_1D538": 111,
+            "stru_1ECA8": 102,
+            "stru_1D9E8": 117
+        }
+    },
+    "room_33": {
+        "locking_door_name": "stru_1D948",
+        "doors": {}
+    },
+    "room_34": {
+        "locking_door_name": "stru_1D970",
+        "doors": {
+            "stru_1D948": 108,
+            "stru_1D588": 111
+        }
+    },
+    "room_35": {
+        "locking_door_name": "stru_1D998",
+        "doors": {
+            "stru_1ED20": 102,
+            "stru_1D8D0": 100
+        }
+    },
+    "room_36": {
+        "locking_door_name": "stru_1D9C0",
+        "doors": {}
+    },
+    "room_37": {
+        "locking_door_name": "stru_1D9E8",
+        "doors": {
+            "stru_1DA10": 114,
+            "stru_1D9C0": 108
+        }
+    },
+    "room_38": {
+        "locking_door_name": "stru_1DA10",
+        "doors": {
+            "stru_1DA38": 114
+        }
+    },
+    "room_39": {
+        "locking_door_name": "stru_1DA38",
+        "doors": {}
+    },
+    "room_40": {
+        "locking_door_name": "stru_1DA60",
+        "doors": {}
+    },
+    "room_41": {
+        "locking_door_name": "stru_1DA88",
+        "doors": {
+            "stru_1DA60": 108,
+            "stru_1EE10": 102
+        }
+    },
+    "room_42": {
+        "locking_door_name": "stru_1DAB0",
+        "doors": {
+            "stru_1DE98": 105
+        }
+    },
+    "room_43": {
+        "locking_door_name": "stru_1DAD8",
+        "doors": {}
+    },
+    "room_44": {
+        "locking_door_name": "stru_1DB00",
+        "doors": {}
+    },
+    "room_45": {
+        "locking_door_name": "stru_1DB28",
+        "doors": {
+            "stru_1DF10": 105
+        }
+    },
+    "room_46": {
+        "locking_door_name": "stru_1DB50",
+        "doors": {}
+    },
+    "room_47": {
+        "locking_door_name": "stru_1DB78",
+        "doors": {}
+    },
+    "room_48": {
+        "locking_door_name": "stru_1DBA0",
+        "doors": {
+            "stru_1DB78": 108
+        }
+    },
+    "room_49": {
+        "locking_door_name": "stru_1DBC8",
+        "doors": {
+            "stru_1EF50": 102,
+            "stru_1DFB0": 105
+        }
+    },
+    "room_50": {
+        "locking_door_name": "stru_1DBF0",
+        "doors": {}
+    },
+    "room_51": {
+        "locking_door_name": "stru_1DC18",
+        "doors": {}
+    },
+    "room_52": {
+        "locking_door_name": "stru_1DC40",
+        "doors": {
+            "stru_1DC68": 114,
+            "stru_1EFC8": 102,
+            "stru_1E028": 105
+        }
+    },
+    "room_53": {
+        "locking_door_name": "stru_1DC68",
+        "doors": {}
+    },
+    "room_54": {
+        "locking_door_name": "stru_1DC90",
+        "doors": {
+            "stru_1E078": 105,
+            "stru_1D8A8": 111,
+            "stru_1DD58": 117
+        }
+    },
+    "room_55": {
+        "locking_door_name": "stru_1DCB8",
+        "doors": {
+            "stru_1DBF0": 100,
+            "stru_1E0A0": 105
+        }
+    },
+    "room_56": {
+        "locking_door_name": "stru_1DCE0",
+        "doors": {
+            "stru_1DC18": 100,
+            "stru_1DDA8": 117,
+            "stru_1E0C8": 105
+        }
+    },
+    "room_57": {
+        "locking_door_name": "stru_1DD08",
+        "doors": {
+            "stru_1DC40": 100
+        }
+    },
+    "room_58": {
+        "locking_door_name": "stru_1DD30",
+        "doors": {
+            "stru_1DD08": 108
+        }
+    },
+    "room_59": {
+        "locking_door_name": "stru_1DD58",
+        "doors": {
+            "stru_1DD30": 108
+        }
+    },
+    "room_60": {
+        "locking_door_name": "stru_1DD80",
+        "doors": {
+            "stru_1E168": 105,
+            "stru_1DE48": 117,
+            "stru_1D998": 111
+        }
+    },
+    "room_61": {
+        "locking_door_name": "stru_1DDA8",
+        "doors": {}
+    },
+    "room_62": {
+        "locking_door_name": "stru_1DDD0",
+        "doors": {}
+    },
+    "room_63": {
+        "locking_door_name": "stru_1DDF8",
+        "doors": {}
+    },
+    "room_64": {
+        "locking_door_name": "stru_1DE20",
+        "doors": {}
+    },
+    "room_65": {
+        "locking_door_name": "stru_1DE48",
+        "doors": {}
+    },
+    "room_66": {
+        "locking_door_name": "stru_1DE70",
+        "doors": {
+            "stru_1F1F8": 102,
+            "stru_1DA88": 111
+        }
+    },
+    "room_67": {
+        "locking_door_name": "stru_1DE98",
+        "doors": {
+            "stru_1F220": 102,
+            "stru_1DDD0": 100,
+            "stru_1DF60": 117
+        }
+    },
+    "room_68": {
+        "locking_door_name": "stru_1DEC0",
+        "doors": {
+            "stru_1DDF8": 100,
+            "stru_1DAD8": 111,
+            "stru_1E2A8": 105
+        }
+    },
+    "room_69": {
+        "locking_door_name": "stru_1DEE8",
+        "doors": {
+            "stru_1DB00": 111,
+            "stru_1DEC0": 108
+        }
+    },
+    "room_70": {
+        "locking_door_name": "stru_1DF10",
+        "doors": {
+            "stru_1E2F8": 105
+        }
+    },
+    "room_71": {
+        "locking_door_name": "stru_1DF38",
+        "doors": {
+            "stru_1F2C0": 102,
+            "stru_1DE70": 100
+        }
+    },
+    "room_72": {
+        "locking_door_name": "stru_1DF60",
+        "doors": {
+            "stru_1DF38": 108
+        }
+    },
+    "room_73": {
+        "locking_door_name": "stru_1DF88",
+        "doors": {}
+    },
+    "room_74": {
+        "locking_door_name": "stru_1DFB0",
+        "doors": {}
+    },
+    "room_75": {
+        "locking_door_name": "stru_1DFD8",
+        "doors": {
+            "stru_1E3C0": 105
+        }
+    },
+    "room_76": {
+        "locking_door_name": "stru_1E000",
+        "doors": {}
+    },
+    "room_77": {
+        "locking_door_name": "stru_1E028",
+        "doors": {
+            "stru_1E0F0": 117,
+            "stru_1E050": 114
+        }
+    },
+    "room_78": {
+        "locking_door_name": "stru_1E050",
+        "doors": {
+            "stru_1E438": 105,
+            "stru_1F3D8": 102,
+            "stru_1E118": 117
+        }
+    },
+    "room_79": {
+        "locking_door_name": "stru_1E078",
+        "doors": {}
+    },
+    "room_80": {
+        "locking_door_name": "stru_1E0A0",
+        "doors": {
+            "stru_1F428": 102,
+            "stru_1E488": 105,
+            "stru_1DFD8": 100
+        }
+    },
+    "room_81": {
+        "locking_door_name": "stru_1E0C8",
+        "doors": {
+            "stru_1E000": 100,
+            "stru_1F450": 102
+        }
+    },
+    "room_82": {
+        "locking_door_name": "stru_1E0F0",
+        "doors": {
+            "stru_1F478": 102
+        }
+    },
+    "room_83": {
+        "locking_door_name": "stru_1E118",
+        "doors": {
+            "stru_1E140": 114,
+            "stru_1E1E0": 117,
+            "stru_1E500": 105
+        }
+    },
+    "room_84": {
+        "locking_door_name": "stru_1E140",
+        "doors": {}
+    },
+    "room_85": {
+        "locking_door_name": "stru_1E168",
+        "doors": {}
+    },
+    "room_86": {
+        "locking_door_name": "stru_1E190",
+        "doors": {
+            "stru_1E1B8": 114
+        }
+    },
+    "room_87": {
+        "locking_door_name": "stru_1E1B8",
+        "doors": {}
+    },
+    "room_88": {
+        "locking_door_name": "stru_1E1E0",
+        "doors": {}
+    },
+    "room_89": {
+        "locking_door_name": "stru_1E208",
+        "doors": {
+            "stru_1E2D0": 117
+        }
+    },
+    "room_90": {
+        "locking_door_name": "stru_1E230",
+        "doors": {}
+    },
+    "room_91": {
+        "locking_door_name": "stru_1E258",
+        "doors": {}
+    },
+    "room_92": {
+        "locking_door_name": "stru_1E280",
+        "doors": {}
+    },
+    "room_93": {
+        "locking_door_name": "stru_1E2A8",
+        "doors": {
+            "stru_1E370": 117
+        }
+    },
+    "room_94": {
+        "locking_door_name": "stru_1E2D0",
+        "doors": {
+            "stru_1E398": 117,
+            "stru_1DEE8": 111
+        }
+    },
+    "room_95": {
+        "locking_door_name": "stru_1E2F8",
+        "doors": {
+            "stru_1E230": 100,
+            "stru_1E320": 114,
+            "stru_1E6E0": 105
+        }
+    },
+    "room_96": {
+        "locking_door_name": "stru_1E320",
+        "doors": {}
+    },
+    "room_97": {
+        "locking_door_name": "stru_1E348",
+        "doors": {}
+    },
+    "room_98": {
+        "locking_door_name": "stru_1E370",
+        "doors": {
+            "stru_1E348": 108,
+            "stru_1DF88": 111,
+            "stru_1F6F8": 102
+        }
+    },
+    "room_99": {
+        "locking_door_name": "stru_1E398",
+        "doors": {}
+    },
+    "room_100": {
+        "locking_door_name": "stru_1E3C0",
+        "doors": {
+            "stru_1E3E8": 114,
+            "stru_1F748": 102
+        }
+    },
+    "room_101": {
+        "locking_door_name": "stru_1E3E8",
+        "doors": {}
+    },
+    "room_102": {
+        "locking_door_name": "stru_1E410",
+        "doors": {}
+    },
+    "room_103": {
+        "locking_door_name": "stru_1E438",
+        "doors": {}
+    },
+    "room_104": {
+        "locking_door_name": "stru_1E460",
+        "doors": {
+            "stru_1E528": 117
+        }
+    },
+    "room_105": {
+        "locking_door_name": "stru_1E488",
+        "doors": {}
+    },
+    "room_106": {
+        "locking_door_name": "stru_1E4B0",
+        "doors": {}
+    },
+    "room_107": {
+        "locking_door_name": "stru_1E4D8",
+        "doors": {}
+    },
+    "room_108": {
+        "locking_door_name": "stru_1E500",
+        "doors": {
+            "stru_1E4D8": 108,
+            "stru_1F888": 102,
+            "stru_1E5C8": 117
+        }
+    },
+    "room_109": {
+        "locking_door_name": "stru_1E528",
+        "doors": {}
+    },
+    "room_110": {
+        "locking_door_name": "stru_1E550",
+        "doors": {}
+    },
+    "room_111": {
+        "locking_door_name": "stru_1E578",
+        "doors": {
+            "stru_1E190": 111,
+            "stru_1E4B0": 100
+        }
+    },
+    "room_112": {
+        "locking_door_name": "stru_1E5A0",
+        "doors": {
+            "stru_1E578": 108
+        }
+    },
+    "room_113": {
+        "locking_door_name": "stru_1E5C8",
+        "doors": {
+            "stru_1E5A0": 108,
+            "stru_1E690": 117,
+            "stru_1E5F0": 114
+        }
+    },
+    "room_114": {
+        "locking_door_name": "stru_1E5F0",
+        "doors": {
+            "stru_1E6B8": 117,
+            "stru_1F978": 102,
+            "stru_1E208": 111
+        }
+    },
+    "room_115": {
+        "locking_door_name": "stru_1E618",
+        "doors": {
+            "stru_1E550": 100,
+            "stru_1F9A0": 102,
+            "stru_1E640": 114
+        }
+    },
+    "room_116": {
+        "locking_door_name": "stru_1E640",
+        "doors": {
+            "stru_1E668": 114,
+            "stru_1F9C8": 102,
+            "stru_1E708": 117
+        }
+    },
+    "room_117": {
+        "locking_door_name": "stru_1E668",
+        "doors": {}
+    },
+    "room_118": {
+        "locking_door_name": "stru_1E690",
+        "doors": {}
+    },
+    "room_119": {
+        "locking_door_name": "stru_1E6B8",
+        "doors": {}
+    },
+    "room_120": {
+        "locking_door_name": "stru_1E6E0",
+        "doors": {
+            "stru_1E618": 100
+        }
+    },
+    "room_121": {
+        "locking_door_name": "stru_1E708",
+        "doors": {
+            "stru_1FA90": 102
+        }
+    },
+    "room_122": {
+        "locking_door_name": "stru_1E730",
+        "doors": {}
+    },
+    "room_123": {
+        "locking_door_name": "stru_1E758",
+        "doors": {
+            "stru_1E730": 108
+        }
+    },
+    "room_124": {
+        "locking_door_name": "stru_1E780",
+        "doors": {}
+    },
+    "room_125": {
+        "locking_door_name": "mutex",
+        "doors": {
+            "stru_1EB90": 105,
+            "stru_1FB30": 102,
+            "stru_1E7D0": 114
+        }
+    },
+    "room_126": {
+        "locking_door_name": "stru_1E7D0",
+        "doors": {
+            "stru_1D448": 98
+        }
+    },
+    "room_127": {
+        "locking_door_name": "stru_1E7F8",
+        "doors": {}
+    },
+    "room_128": {
+        "locking_door_name": "stru_1E820",
+        "doors": {}
+    },
+    "room_129": {
+        "locking_door_name": "stru_1E848",
+        "doors": {}
+    },
+    "room_130": {
+        "locking_door_name": "stru_1E870",
+        "doors": {}
+    },
+    "room_131": {
+        "locking_door_name": "stru_1E898",
+        "doors": {}
+    },
+    "room_132": {
+        "locking_door_name": "stru_1E8C0",
+        "doors": {}
+    },
+    "room_133": {
+        "locking_door_name": "stru_1E8E8",
+        "doors": {
+            "stru_1E820": 100,
+            "stru_1E910": 114
+        }
+    },
+    "room_134": {
+        "locking_door_name": "stru_1E910",
+        "doors": {
+            "stru_1E848": 100,
+            "stru_1E9D8": 117
+        }
+    },
+    "room_135": {
+        "locking_door_name": "stru_1E938",
+        "doors": {}
+    },
+    "room_136": {
+        "locking_door_name": "stru_1E960",
+        "doors": {}
+    },
+    "room_137": {
+        "locking_door_name": "stru_1E988",
+        "doors": {
+            "stru_1E8C0": 100,
+            "stru_1FD10": 102
+        }
+    },
+    "room_138": {
+        "locking_door_name": "stru_1E9B0",
+        "doors": {
+            "stru_1FD38": 102,
+            "stru_1D628": 98,
+            "stru_1E988": 108
+        }
+    },
+    "room_139": {
+        "locking_door_name": "stru_1E9D8",
+        "doors": {
+            "stru_1FD60": 102,
+            "stru_1D650": 98,
+            "stru_1E9B0": 108
+        }
+    },
+    "room_140": {
+        "locking_door_name": "stru_1EA00",
+        "doors": {
+            "stru_1EAC8": 117
+        }
+    },
+    "room_141": {
+        "locking_door_name": "stru_1EA28",
+        "doors": {
+            "stru_1EA50": 114
+        }
+    },
+    "room_142": {
+        "locking_door_name": "stru_1EA50",
+        "doors": {
+            "stru_1EA78": 114,
+            "stru_1D6C8": 98
+        }
+    },
+    "room_143": {
+        "locking_door_name": "stru_1EA78",
+        "doors": {}
+    },
+    "room_144": {
+        "locking_door_name": "stru_1EAA0",
+        "doors": {}
+    },
+    "room_145": {
+        "locking_door_name": "stru_1EAC8",
+        "doors": {
+            "stru_1D740": 98
+        }
+    },
+    "room_146": {
+        "locking_door_name": "stru_1EAF0",
+        "doors": {
+            "stru_1EA28": 100
+        }
+    },
+    "room_147": {
+        "locking_door_name": "stru_1EB18",
+        "doors": {}
+    },
+    "room_148": {
+        "locking_door_name": "stru_1EB40",
+        "doors": {
+            "stru_1EB68": 114,
+            "stru_1D7B8": 98
+        }
+    },
+    "room_149": {
+        "locking_door_name": "stru_1EB68",
+        "doors": {}
+    },
+    "room_150": {
+        "locking_door_name": "stru_1EB90",
+        "doors": {}
+    },
+    "room_151": {
+        "locking_door_name": "stru_1EBB8",
+        "doors": {}
+    },
+    "room_152": {
+        "locking_door_name": "stru_1EBE0",
+        "doors": {
+            "stru_1E7F8": 111
+        }
+    },
+    "room_153": {
+        "locking_door_name": "stru_1EC08",
+        "doors": {
+            "stru_1EC30": 114,
+            "stru_1D880": 98
+        }
+    },
+    "room_154": {
+        "locking_door_name": "stru_1EC30",
+        "doors": {}
+    },
+    "room_155": {
+        "locking_door_name": "stru_1EC58",
+        "doors": {
+            "stru_1E870": 111,
+            "stru_1F040": 105,
+            "stru_1EC80": 114
+        }
+    },
+    "room_156": {
+        "locking_door_name": "stru_1EC80",
+        "doors": {
+            "stru_1EBB8": 100,
+            "stru_20008": 102,
+            "stru_1F068": 105
+        }
+    },
+    "room_157": {
+        "locking_door_name": "stru_1ECA8",
+        "doors": {
+            "stru_1EBE0": 100
+        }
+    },
+    "room_158": {
+        "locking_door_name": "stru_1ECD0",
+        "doors": {}
+    },
+    "room_159": {
+        "locking_door_name": "stru_1ECF8",
+        "doors": {
+            "stru_1ECD0": 108,
+            "stru_1D970": 98
+        }
+    },
+    "room_160": {
+        "locking_door_name": "stru_1ED20",
+        "doors": {}
+    },
+    "room_161": {
+        "locking_door_name": "stru_1ED48",
+        "doors": {
+            "stru_1F130": 105,
+            "stru_200D0": 102
+        }
+    },
+    "room_162": {
+        "locking_door_name": "stru_1ED70",
+        "doors": {
+            "stru_1F158": 105,
+            "stru_200F8": 102,
+            "stru_1ED48": 108
+        }
+    },
+    "room_163": {
+        "locking_door_name": "stru_1ED98",
+        "doors": {}
+    },
+    "room_164": {
+        "locking_door_name": "stru_1EDC0",
+        "doors": {
+            "stru_1ED98": 108,
+            "stru_1ECF8": 100
+        }
+    },
+    "room_165": {
+        "locking_door_name": "stru_1EDE8",
+        "doors": {}
+    },
+    "room_166": {
+        "locking_door_name": "stru_1EE10",
+        "doors": {
+            "stru_1EE38": 114
+        }
+    },
+    "room_167": {
+        "locking_door_name": "stru_1EE38",
+        "doors": {
+            "stru_1EF00": 117,
+            "stru_1ED70": 100
+        }
+    },
+    "room_168": {
+        "locking_door_name": "stru_1EE60",
+        "doors": {}
+    },
+    "room_169": {
+        "locking_door_name": "stru_1EE88",
+        "doors": {
+            "stru_1F270": 105
+        }
+    },
+    "room_170": {
+        "locking_door_name": "stru_1EEB0",
+        "doors": {
+            "stru_1EED8": 114
+        }
+    },
+    "room_171": {
+        "locking_door_name": "stru_1EED8",
+        "doors": {}
+    },
+    "room_172": {
+        "locking_door_name": "stru_1EF00",
+        "doors": {}
+    },
+    "room_173": {
+        "locking_door_name": "stru_1EF28",
+        "doors": {
+            "stru_1DBA0": 98,
+            "stru_1EB40": 111,
+            "stru_202B0": 102
+        }
+    },
+    "room_174": {
+        "locking_door_name": "stru_1EF50",
+        "doors": {}
+    },
+    "room_175": {
+        "locking_door_name": "stru_1EF78",
+        "doors": {}
+    },
+    "room_176": {
+        "locking_door_name": "stru_1EFA0",
+        "doors": {}
+    },
+    "room_177": {
+        "locking_door_name": "stru_1EFC8",
+        "doors": {}
+    },
+    "room_178": {
+        "locking_door_name": "stru_1EFF0",
+        "doors": {
+            "stru_1EC08": 111
+        }
+    },
+    "room_179": {
+        "locking_door_name": "stru_1F018",
+        "doors": {
+            "stru_1DC90": 98
+        }
+    },
+    "room_180": {
+        "locking_door_name": "stru_1F040",
+        "doors": {}
+    },
+    "room_181": {
+        "locking_door_name": "stru_1F068",
+        "doors": {
+            "stru_1EFA0": 100,
+            "stru_1F090": 114,
+            "stru_1DCE0": 98
+        }
+    },
+    "room_182": {
+        "locking_door_name": "stru_1F090",
+        "doors": {}
+    },
+    "room_183": {
+        "locking_door_name": "stru_1F0B8",
+        "doors": {
+            "stru_1F180": 117,
+            "stru_1EFF0": 100,
+            "stru_20440": 102
+        }
+    },
+    "room_184": {
+        "locking_door_name": "stru_1F0E0",
+        "doors": {
+            "stru_1F0B8": 108
+        }
+    },
+    "room_185": {
+        "locking_door_name": "stru_1F108",
+        "doors": {
+            "stru_20490": 102,
+            "stru_1DD80": 98
+        }
+    },
+    "room_186": {
+        "locking_door_name": "stru_1F130",
+        "doors": {}
+    },
+    "room_187": {
+        "locking_door_name": "stru_1F158",
+        "doors": {}
+    },
+    "room_188": {
+        "locking_door_name": "stru_1F180",
+        "doors": {}
+    },
+    "room_189": {
+        "locking_door_name": "stru_1F1A8",
+        "doors": {
+            "stru_1DE20": 98,
+            "stru_1F590": 105,
+            "stru_1EDC0": 111
+        }
+    },
+    "room_190": {
+        "locking_door_name": "stru_1F1D0",
+        "doors": {
+            "stru_1EDE8": 111,
+            "stru_20558": 102,
+            "stru_1F108": 100
+        }
+    },
+    "room_191": {
+        "locking_door_name": "stru_1F1F8",
+        "doors": {}
+    },
+    "room_192": {
+        "locking_door_name": "stru_1F220",
+        "doors": {}
+    },
+    "room_193": {
+        "locking_door_name": "stru_1F248",
+        "doors": {
+            "stru_205D0": 102
+        }
+    },
+    "room_194": {
+        "locking_door_name": "stru_1F270",
+        "doors": {
+            "stru_1F338": 117,
+            "stru_205F8": 102,
+            "stru_1F1A8": 100
+        }
+    },
+    "room_195": {
+        "locking_door_name": "stru_1F298",
+        "doors": {}
+    },
+    "room_196": {
+        "locking_door_name": "stru_1F2C0",
+        "doors": {}
+    },
+    "room_197": {
+        "locking_door_name": "stru_1F2E8",
+        "doors": {}
+    },
+    "room_198": {
+        "locking_door_name": "stru_1F310",
+        "doors": {
+            "stru_1EF28": 111
+        }
+    },
+    "room_199": {
+        "locking_door_name": "stru_1F338",
+        "doors": {}
+    },
+    "room_200": {
+        "locking_door_name": "stru_1F360",
+        "doors": {}
+    },
+    "room_201": {
+        "locking_door_name": "stru_1F388",
+        "doors": {
+            "stru_20710": 102
+        }
+    },
+    "room_202": {
+        "locking_door_name": "stru_1F3B0",
+        "doors": {}
+    },
+    "room_203": {
+        "locking_door_name": "stru_1F3D8",
+        "doors": {}
+    },
+    "room_204": {
+        "locking_door_name": "stru_1F400",
+        "doors": {}
+    },
+    "room_205": {
+        "locking_door_name": "stru_1F428",
+        "doors": {}
+    },
+    "room_206": {
+        "locking_door_name": "stru_1F450",
+        "doors": {
+            "stru_1F838": 105
+        }
+    },
+    "room_207": {
+        "locking_door_name": "stru_1F478",
+        "doors": {}
+    },
+    "room_208": {
+        "locking_door_name": "stru_1F4A0",
+        "doors": {
+            "stru_1F568": 117
+        }
+    },
+    "room_209": {
+        "locking_door_name": "stru_1F4C8",
+        "doors": {
+            "stru_1F0E0": 111
+        }
+    },
+    "room_210": {
+        "locking_door_name": "stru_1F4F0",
+        "doors": {}
+    },
+    "room_211": {
+        "locking_door_name": "stru_1F518",
+        "doors": {
+            "stru_1F540": 114
+        }
+    },
+    "room_212": {
+        "locking_door_name": "stru_1F540",
+        "doors": {
+            "stru_1F608": 117
+        }
+    },
+    "room_213": {
+        "locking_door_name": "stru_1F568",
+        "doors": {
+            "stru_1F630": 117
+        }
+    },
+    "room_214": {
+        "locking_door_name": "stru_1F590",
+        "doors": {}
+    },
+    "room_215": {
+        "locking_door_name": "stru_1F5B8",
+        "doors": {
+            "stru_1F680": 117,
+            "stru_1F1D0": 111
+        }
+    },
+    "room_216": {
+        "locking_door_name": "stru_1F5E0",
+        "doors": {
+            "stru_1E258": 98,
+            "stru_1F6A8": 117,
+            "stru_1F5B8": 108
+        }
+    },
+    "room_217": {
+        "locking_door_name": "stru_1F608",
+        "doors": {
+            "stru_1E280": 98,
+            "stru_1F5E0": 108
+        }
+    },
+    "room_218": {
+        "locking_door_name": "stru_1F630",
+        "doors": {
+            "stru_1FA18": 105,
+            "stru_1F248": 111
+        }
+    },
+    "room_219": {
+        "locking_door_name": "stru_1F658",
+        "doors": {}
+    },
+    "room_220": {
+        "locking_door_name": "stru_1F680",
+        "doors": {}
+    },
+    "room_221": {
+        "locking_door_name": "stru_1F6A8",
+        "doors": {}
+    },
+    "room_222": {
+        "locking_door_name": "stru_1F6D0",
+        "doors": {}
+    },
+    "room_223": {
+        "locking_door_name": "stru_1F6F8",
+        "doors": {
+            "stru_1F310": 111,
+            "stru_1FAE0": 105,
+            "stru_1F6D0": 108
+        }
+    },
+    "room_224": {
+        "locking_door_name": "stru_1F720",
+        "doors": {}
+    },
+    "room_225": {
+        "locking_door_name": "stru_1F748",
+        "doors": {
+            "stru_20AD0": 102
+        }
+    },
+    "room_226": {
+        "locking_door_name": "stru_1F770",
+        "doors": {
+            "stru_1F388": 111
+        }
+    },
+    "room_227": {
+        "locking_door_name": "stru_1F798",
+        "doors": {
+            "stru_1E410": 98,
+            "stru_1F3B0": 111,
+            "stru_1F770": 108
+        }
+    },
+    "room_228": {
+        "locking_door_name": "stru_1F7C0",
+        "doors": {}
+    },
+    "room_229": {
+        "locking_door_name": "stru_1F7E8",
+        "doors": {
+            "stru_1F400": 111,
+            "stru_1E460": 98
+        }
+    },
+    "room_230": {
+        "locking_door_name": "stru_1F810",
+        "doors": {}
+    },
+    "room_231": {
+        "locking_door_name": "stru_1F838",
+        "doors": {
+            "stru_20BC0": 102,
+            "stru_1F810": 108,
+            "stru_1F900": 117
+        }
+    },
+    "room_232": {
+        "locking_door_name": "stru_1F860",
+        "doors": {
+            "stru_1F798": 100
+        }
+    },
+    "room_233": {
+        "locking_door_name": "stru_1F888",
+        "doors": {}
+    },
+    "room_234": {
+        "locking_door_name": "stru_1F8B0",
+        "doors": {
+            "stru_1F4C8": 111,
+            "stru_1F7E8": 100
+        }
+    },
+    "room_235": {
+        "locking_door_name": "stru_1F8D8",
+        "doors": {
+            "stru_1F4F0": 111
+        }
+    },
+    "room_236": {
+        "locking_door_name": "stru_1F900",
+        "doors": {
+            "stru_1F928": 114,
+            "stru_1F518": 111
+        }
+    },
+    "room_237": {
+        "locking_door_name": "stru_1F928",
+        "doors": {}
+    },
+    "room_238": {
+        "locking_door_name": "stru_1F950",
+        "doors": {}
+    },
+    "room_239": {
+        "locking_door_name": "stru_1F978",
+        "doors": {}
+    },
+    "room_240": {
+        "locking_door_name": "stru_1F9A0",
+        "doors": {
+            "stru_1F8D8": 100
+        }
+    },
+    "room_241": {
+        "locking_door_name": "stru_1F9C8",
+        "doors": {
+            "stru_1F9F0": 114
+        }
+    },
+    "room_242": {
+        "locking_door_name": "stru_1F9F0",
+        "doors": {}
+    },
+    "room_243": {
+        "locking_door_name": "stru_1FA18",
+        "doors": {}
+    },
+    "room_244": {
+        "locking_door_name": "stru_1FA40",
+        "doors": {
+            "stru_1F658": 111,
+            "stru_20DC8": 102
+        }
+    },
+    "room_245": {
+        "locking_door_name": "stru_1FA68",
+        "doors": {}
+    },
+    "room_246": {
+        "locking_door_name": "stru_1FA90",
+        "doors": {
+            "stru_1FA68": 108,
+            "stru_20E18": 102
+        }
+    },
+    "room_247": {
+        "locking_door_name": "stru_1FAB8",
+        "doors": {}
+    },
+    "room_248": {
+        "locking_door_name": "stru_1FAE0",
+        "doors": {
+            "stru_1E758": 98,
+            "stru_1FB08": 114
+        }
+    },
+    "room_249": {
+        "locking_door_name": "stru_1FB08",
+        "doors": {
+            "stru_1E780": 98,
+            "stru_1FA40": 100
+        }
+    },
+    "room_250": {
+        "locking_door_name": "stru_1FB30",
+        "doors": {}
+    },
+    "room_251": {
+        "locking_door_name": "stru_1FB58",
+        "doors": {
+            "stru_1FC20": 117,
+            "stru_1FF40": 105
+        }
+    },
+    "room_252": {
+        "locking_door_name": "stru_1FB80",
+        "doors": {}
+    },
+    "room_253": {
+        "locking_door_name": "stru_1FBA8",
+        "doors": {
+            "stru_1FB80": 108,
+            "stru_1FBD0": 114
+        }
+    },
+    "room_254": {
+        "locking_door_name": "stru_1FBD0",
+        "doors": {
+            "stru_1FC98": 117,
+            "stru_20F58": 102
+        }
+    },
+    "room_255": {
+        "locking_door_name": "stru_1FBF8",
+        "doors": {
+            "stru_1FFE0": 105
+        }
+    },
+    "room_256": {
+        "locking_door_name": "stru_1FC20",
+        "doors": {
+            "stru_20FA8": 102
+        }
+    },
+    "room_257": {
+        "locking_door_name": "stru_1FC48",
+        "doors": {
+            "stru_20030": 105,
+            "stru_20FD0": 102,
+            "stru_1FC70": 114
+        }
+    },
+    "room_258": {
+        "locking_door_name": "stru_1FC70",
+        "doors": {
+            "stru_1FBA8": 100
+        }
+    },
+    "room_259": {
+        "locking_door_name": "stru_1FC98",
+        "doors": {}
+    },
+    "room_260": {
+        "locking_door_name": "stru_1FCC0",
+        "doors": {
+            "stru_1E938": 98,
+            "stru_21048": 102,
+            "stru_1FBF8": 100
+        }
+    },
+    "room_261": {
+        "locking_door_name": "stru_1FCE8",
+        "doors": {
+            "stru_21070": 102,
+            "stru_1FDB0": 117,
+            "stru_1FCC0": 108
+        }
+    },
+    "room_262": {
+        "locking_door_name": "stru_1FD10",
+        "doors": {
+            "stru_1FDD8": 117,
+            "stru_1FC48": 100
+        }
+    },
+    "room_263": {
+        "locking_door_name": "stru_1FD38",
+        "doors": {}
+    },
+    "room_264": {
+        "locking_door_name": "stru_1FD60",
+        "doors": {}
+    },
+    "room_265": {
+        "locking_door_name": "stru_1FD88",
+        "doors": {
+            "stru_1EA00": 98
+        }
+    },
+    "room_266": {
+        "locking_door_name": "stru_1FDB0",
+        "doors": {}
+    },
+    "room_267": {
+        "locking_door_name": "stru_1FDD8",
+        "doors": {}
+    },
+    "room_268": {
+        "locking_door_name": "stru_1FE00",
+        "doors": {
+            "stru_201E8": 105
+        }
+    },
+    "room_269": {
+        "locking_door_name": "stru_1FE28",
+        "doors": {
+            "stru_1FEF0": 117
+        }
+    },
+    "room_270": {
+        "locking_door_name": "stru_1FE50",
+        "doors": {}
+    },
+    "room_271": {
+        "locking_door_name": "stru_1FE78",
+        "doors": {}
+    },
+    "room_272": {
+        "locking_door_name": "stru_1FEA0",
+        "doors": {
+            "stru_1FE78": 108,
+            "stru_1EB18": 98
+        }
+    },
+    "room_273": {
+        "locking_door_name": "stru_1FEC8",
+        "doors": {
+            "stru_21250": 102,
+            "stru_1FEA0": 108
+        }
+    },
+    "room_274": {
+        "locking_door_name": "stru_1FEF0",
+        "doors": {
+            "stru_202D8": 105
+        }
+    },
+    "room_275": {
+        "locking_door_name": "stru_1FF18",
+        "doors": {}
+    },
+    "room_276": {
+        "locking_door_name": "stru_1FF40",
+        "doors": {
+            "stru_1FF68": 114
+        }
+    },
+    "room_277": {
+        "locking_door_name": "stru_1FF68",
+        "doors": {
+            "stru_212F0": 102,
+            "stru_1FF90": 114
+        }
+    },
+    "room_278": {
+        "locking_door_name": "stru_1FF90",
+        "doors": {
+            "stru_1FFB8": 114,
+            "stru_20378": 105,
+            "stru_21318": 102
+        }
+    },
+    "room_279": {
+        "locking_door_name": "stru_1FFB8",
+        "doors": {}
+    },
+    "room_280": {
+        "locking_door_name": "stru_1FFE0",
+        "doors": {
+            "stru_1FF18": 100,
+            "stru_21368": 102,
+            "stru_1EC58": 98
+        }
+    },
+    "room_281": {
+        "locking_door_name": "stru_20008",
+        "doors": {}
+    },
+    "room_282": {
+        "locking_door_name": "stru_20030",
+        "doors": {}
+    },
+    "room_283": {
+        "locking_door_name": "stru_20058",
+        "doors": {
+            "stru_20080": 114
+        }
+    },
+    "room_284": {
+        "locking_door_name": "stru_20080",
+        "doors": {
+            "stru_21408": 102
+        }
+    },
+    "room_285": {
+        "locking_door_name": "stru_200A8",
+        "doors": {}
+    },
+    "room_286": {
+        "locking_door_name": "stru_200D0",
+        "doors": {
+            "stru_21458": 102,
+            "stru_1FCE8": 111
+        }
+    },
+    "room_287": {
+        "locking_door_name": "stru_200F8",
+        "doors": {}
+    },
+    "room_288": {
+        "locking_door_name": "stru_20120",
+        "doors": {}
+    },
+    "room_289": {
+        "locking_door_name": "stru_20148",
+        "doors": {
+            "stru_20530": 105
+        }
+    },
+    "room_290": {
+        "locking_door_name": "stru_20170",
+        "doors": {
+            "stru_200A8": 100,
+            "stru_214F8": 102
+        }
+    },
+    "room_291": {
+        "locking_door_name": "stru_20198",
+        "doors": {}
+    },
+    "room_292": {
+        "locking_door_name": "stru_201C0",
+        "doors": {
+            "stru_205A8": 105,
+            "stru_20288": 117
+        }
+    },
+    "room_293": {
+        "locking_door_name": "stru_201E8",
+        "doors": {
+            "stru_20120": 100,
+            "stru_1EE60": 98,
+            "stru_201C0": 108
+        }
+    },
+    "room_294": {
+        "locking_door_name": "stru_20210",
+        "doors": {
+            "stru_1EE88": 98
+        }
+    },
+    "room_295": {
+        "locking_door_name": "stru_20238",
+        "doors": {
+            "stru_1EEB0": 98,
+            "stru_1FE50": 111,
+            "stru_20170": 100
+        }
+    },
+    "room_296": {
+        "locking_door_name": "stru_20260",
+        "doors": {}
+    },
+    "room_297": {
+        "locking_door_name": "stru_20288",
+        "doors": {
+            "stru_21610": 102
+        }
+    },
+    "room_298": {
+        "locking_door_name": "stru_202B0",
+        "doors": {
+            "stru_1FEC8": 111
+        }
+    },
+    "room_299": {
+        "locking_door_name": "stru_202D8",
+        "doors": {
+            "stru_20210": 100
+        }
+    },
+    "room_300": {
+        "locking_door_name": "stru_20300",
+        "doors": {
+            "stru_21688": 102,
+            "stru_1EF78": 98,
+            "stru_206E8": 105
+        }
+    },
+    "room_301": {
+        "locking_door_name": "stru_20328",
+        "doors": {}
+    },
+    "room_302": {
+        "locking_door_name": "stru_20350",
+        "doors": {}
+    },
+    "room_303": {
+        "locking_door_name": "stru_20378",
+        "doors": {
+            "stru_20760": 105,
+            "stru_203A0": 114
+        }
+    },
+    "room_304": {
+        "locking_door_name": "stru_203A0",
+        "doors": {
+            "stru_1F018": 98
+        }
+    },
+    "room_305": {
+        "locking_door_name": "stru_203C8",
+        "doors": {
+            "stru_20300": 100
+        }
+    },
+    "room_306": {
+        "locking_door_name": "stru_203F0",
+        "doors": {}
+    },
+    "room_307": {
+        "locking_door_name": "stru_20418",
+        "doors": {}
+    },
+    "room_308": {
+        "locking_door_name": "stru_20440",
+        "doors": {
+            "stru_20058": 111,
+            "stru_20418": 108
+        }
+    },
+    "room_309": {
+        "locking_door_name": "stru_20468",
+        "doors": {}
+    },
+    "room_310": {
+        "locking_door_name": "stru_20490",
+        "doors": {}
+    },
+    "room_311": {
+        "locking_door_name": "stru_204B8",
+        "doors": {
+            "stru_204E0": 114,
+            "stru_21840": 102
+        }
+    },
+    "room_312": {
+        "locking_door_name": "stru_204E0",
+        "doors": {}
+    },
+    "room_313": {
+        "locking_door_name": "stru_20508",
+        "doors": {}
+    },
+    "room_314": {
+        "locking_door_name": "stru_20530",
+        "doors": {
+            "stru_20468": 100,
+            "stru_218B8": 102,
+            "stru_20918": 105
+        }
+    },
+    "room_315": {
+        "locking_door_name": "stru_20558",
+        "doors": {}
+    },
+    "room_316": {
+        "locking_door_name": "stru_20580",
+        "doors": {
+            "stru_20198": 111
+        }
+    },
+    "room_317": {
+        "locking_door_name": "stru_205A8",
+        "doors": {}
+    },
+    "room_318": {
+        "locking_door_name": "stru_205D0",
+        "doors": {
+            "stru_209B8": 105,
+            "stru_20698": 117
+        }
+    },
+    "room_319": {
+        "locking_door_name": "stru_205F8",
+        "doors": {}
+    },
+    "room_320": {
+        "locking_door_name": "stru_20620",
+        "doors": {
+            "stru_1F298": 98,
+            "stru_219A8": 102,
+            "stru_20238": 111
+        }
+    },
+    "room_321": {
+        "locking_door_name": "stru_20648",
+        "doors": {
+            "stru_20A30": 105,
+            "stru_20260": 111,
+            "stru_20620": 108
+        }
+    },
+    "room_322": {
+        "locking_door_name": "stru_20670",
+        "doors": {
+            "stru_1F2E8": 98,
+            "stru_20648": 108
+        }
+    },
+    "room_323": {
+        "locking_door_name": "stru_20698",
+        "doors": {
+            "stru_206C0": 114
+        }
+    },
+    "room_324": {
+        "locking_door_name": "stru_206C0",
+        "doors": {
+            "stru_20AA8": 105
+        }
+    },
+    "room_325": {
+        "locking_door_name": "stru_206E8",
+        "doors": {
+            "stru_1F360": 98,
+            "stru_21A70": 102
+        }
+    },
+    "room_326": {
+        "locking_door_name": "stru_20710",
+        "doors": {
+            "stru_20328": 111,
+            "stru_21A98": 102,
+            "stru_207D8": 117
+        }
+    },
+    "room_327": {
+        "locking_door_name": "stru_20738",
+        "doors": {
+            "stru_20350": 111,
+            "stru_21AC0": 102
+        }
+    },
+    "room_328": {
+        "locking_door_name": "stru_20760",
+        "doors": {}
+    },
+    "room_329": {
+        "locking_door_name": "stru_20788",
+        "doors": {}
+    },
+    "room_330": {
+        "locking_door_name": "stru_207B0",
+        "doors": {}
+    },
+    "room_331": {
+        "locking_door_name": "stru_207D8",
+        "doors": {
+            "stru_203F0": 111,
+            "stru_208A0": 117
+        }
+    },
+    "room_332": {
+        "locking_door_name": "stru_20800",
+        "doors": {}
+    },
+    "room_333": {
+        "locking_door_name": "stru_20828",
+        "doors": {
+            "stru_1F4A0": 98
+        }
+    },
+    "room_334": {
+        "locking_door_name": "stru_20850",
+        "doors": {
+            "stru_20788": 100,
+            "stru_20828": 108
+        }
+    },
+    "room_335": {
+        "locking_door_name": "stru_20878",
+        "doors": {}
+    },
+    "room_336": {
+        "locking_door_name": "stru_208A0",
+        "doors": {
+            "stru_204B8": 111
+        }
+    },
+    "room_337": {
+        "locking_door_name": "stru_208C8",
+        "doors": {}
+    },
+    "room_338": {
+        "locking_door_name": "stru_208F0",
+        "doors": {}
+    },
+    "room_339": {
+        "locking_door_name": "stru_20918",
+        "doors": {
+            "stru_209E0": 117,
+            "stru_20850": 100
+        }
+    },
+    "room_340": {
+        "locking_door_name": "stru_20940",
+        "doors": {
+            "stru_20A08": 117,
+            "stru_20878": 100,
+            "stru_20968": 114
+        }
+    },
+    "room_341": {
+        "locking_door_name": "stru_20968",
+        "doors": {
+            "stru_21CF0": 102,
+            "stru_20D50": 105,
+            "stru_20990": 114
+        }
+    },
+    "room_342": {
+        "locking_door_name": "stru_20990",
+        "doors": {
+            "stru_208C8": 100,
+            "stru_20A58": 117,
+            "stru_20D78": 105
+        }
+    },
+    "room_343": {
+        "locking_door_name": "stru_209B8",
+        "doors": {}
+    },
+    "room_344": {
+        "locking_door_name": "stru_209E0",
+        "doors": {}
+    },
+    "room_345": {
+        "locking_door_name": "stru_20A08",
+        "doors": {}
+    },
+    "room_346": {
+        "locking_door_name": "stru_20A30",
+        "doors": {}
+    },
+    "room_347": {
+        "locking_door_name": "stru_20A58",
+        "doors": {}
+    },
+    "room_348": {
+        "locking_door_name": "stru_20A80",
+        "doors": {}
+    },
+    "room_349": {
+        "locking_door_name": "stru_20AA8",
+        "doors": {
+            "stru_1F720": 98,
+            "stru_20A80": 108,
+            "stru_20E90": 105
+        }
+    },
+    "room_350": {
+        "locking_door_name": "stru_20AD0",
+        "doors": {
+            "stru_20B98": 117
+        }
+    },
+    "room_351": {
+        "locking_door_name": "stru_20AF8",
+        "doors": {}
+    },
+    "room_352": {
+        "locking_door_name": "stru_20B20",
+        "doors": {
+            "stru_20AF8": 108,
+            "stru_20738": 111
+        }
+    },
+    "room_353": {
+        "locking_door_name": "stru_20B48",
+        "doors": {
+            "stru_20C10": 117,
+            "stru_1F7C0": 98,
+            "stru_20B20": 108
+        }
+    },
+    "room_354": {
+        "locking_door_name": "stru_20B70",
+        "doors": {}
+    },
+    "room_355": {
+        "locking_door_name": "stru_20B98",
+        "doors": {
+            "stru_207B0": 111,
+            "stru_20C60": 117
+        }
+    },
+    "room_356": {
+        "locking_door_name": "stru_20BC0",
+        "doors": {}
+    },
+    "room_357": {
+        "locking_door_name": "stru_20BE8",
+        "doors": {
+            "stru_20800": 111,
+            "stru_1F860": 98
+        }
+    },
+    "room_358": {
+        "locking_door_name": "stru_20C10",
+        "doors": {}
+    },
+    "room_359": {
+        "locking_door_name": "stru_20C38",
+        "doors": {
+            "stru_20B70": 100,
+            "stru_1F8B0": 98
+        }
+    },
+    "room_360": {
+        "locking_door_name": "stru_20C60",
+        "doors": {
+            "stru_20D28": 117,
+            "stru_20C88": 114
+        }
+    },
+    "room_361": {
+        "locking_door_name": "stru_20C88",
+        "doors": {
+            "stru_22010": 102
+        }
+    },
+    "room_362": {
+        "locking_door_name": "stru_20CB0",
+        "doors": {}
+    },
+    "room_363": {
+        "locking_door_name": "stru_20CD8",
+        "doors": {
+            "stru_22060": 102,
+            "stru_1F950": 98,
+            "stru_20DA0": 117,
+            "stru_208F0": 111,
+            "stru_20CB0": 108
+        }
+    },
+    "room_364": {
+        "locking_door_name": "stru_20D00",
+        "doors": {
+            "stru_20CD8": 108,
+            "stru_20C38": 100
+        }
+    },
+    "room_365": {
+        "locking_door_name": "stru_20D28",
+        "doors": {}
+    },
+    "room_366": {
+        "locking_door_name": "stru_20D50",
+        "doors": {}
+    },
+    "room_367": {
+        "locking_door_name": "stru_20D78",
+        "doors": {
+            "stru_20E40": 117
+        }
+    },
+    "room_368": {
+        "locking_door_name": "stru_20DA0",
+        "doors": {}
+    },
+    "room_369": {
+        "locking_door_name": "stru_20DC8",
+        "doors": {
+            "stru_20D00": 100
+        }
+    },
+    "room_370": {
+        "locking_door_name": "stru_20DF0",
+        "doors": {}
+    },
+    "room_371": {
+        "locking_door_name": "stru_20E18",
+        "doors": {
+            "stru_20DF0": 108,
+            "stru_221A0": 102
+        }
+    },
+    "room_372": {
+        "locking_door_name": "stru_20E40",
+        "doors": {
+            "stru_1FAB8": 98,
+            "stru_221C8": 102,
+            "stru_20E68": 114
+        }
+    },
+    "room_373": {
+        "locking_door_name": "stru_20E68",
+        "doors": {
+            "stru_221F0": 102
+        }
+    },
+    "room_374": {
+        "locking_door_name": "stru_20E90",
+        "doors": {
+            "stru_22218": 102
+        }
+    },
+    "room_375": {
+        "locking_door_name": "stru_20EB8",
+        "doors": {
+            "stru_22240": 102,
+            "stru_212A0": 105
+        }
+    },
+    "room_376": {
+        "locking_door_name": "stru_20EE0",
+        "doors": {
+            "stru_20F08": 114,
+            "stru_1FB58": 98
+        }
+    },
+    "room_377": {
+        "locking_door_name": "stru_20F08",
+        "doors": {}
+    },
+    "room_378": {
+        "locking_door_name": "stru_20F30",
+        "doors": {}
+    },
+    "room_379": {
+        "locking_door_name": "stru_20F58",
+        "doors": {
+            "stru_20F30": 108,
+            "stru_21020": 117,
+            "stru_21340": 105
+        }
+    },
+    "room_380": {
+        "locking_door_name": "stru_20F80",
+        "doors": {
+            "stru_20EB8": 100
+        }
+    },
+    "room_381": {
+        "locking_door_name": "stru_20FA8",
+        "doors": {
+            "stru_20F80": 108
+        }
+    },
+    "room_382": {
+        "locking_door_name": "stru_20FD0",
+        "doors": {}
+    },
+    "room_383": {
+        "locking_door_name": "stru_20FF8",
+        "doors": {}
+    },
+    "room_384": {
+        "locking_door_name": "stru_21020",
+        "doors": {}
+    },
+    "room_385": {
+        "locking_door_name": "stru_21048",
+        "doors": {}
+    },
+    "room_386": {
+        "locking_door_name": "stru_21070",
+        "doors": {}
+    },
+    "room_387": {
+        "locking_door_name": "stru_21098",
+        "doors": {
+            "stru_22420": 102,
+            "stru_210C0": 114
+        }
+    },
+    "room_388": {
+        "locking_door_name": "stru_210C0",
+        "doors": {
+            "stru_22448": 102,
+            "stru_20FF8": 100,
+            "stru_210E8": 114
+        }
+    },
+    "room_389": {
+        "locking_door_name": "stru_210E8",
+        "doors": {
+            "stru_211B0": 117
+        }
+    },
+    "room_390": {
+        "locking_door_name": "stru_21110",
+        "doors": {
+            "stru_21138": 114,
+            "stru_1FD88": 98
+        }
+    },
+    "room_391": {
+        "locking_door_name": "stru_21138",
+        "doors": {}
+    },
+    "room_392": {
+        "locking_door_name": "stru_21160",
+        "doors": {}
+    },
+    "room_393": {
+        "locking_door_name": "stru_21188",
+        "doors": {
+            "stru_21160": 108,
+            "stru_1FE00": 98
+        }
+    },
+    "room_394": {
+        "locking_door_name": "stru_211B0",
+        "doors": {
+            "stru_21278": 117,
+            "stru_1FE28": 98
+        }
+    },
+    "room_395": {
+        "locking_door_name": "stru_211D8",
+        "doors": {
+            "stru_21200": 114,
+            "stru_215C0": 105,
+            "stru_21110": 100
+        }
+    },
+    "room_396": {
+        "locking_door_name": "stru_21200",
+        "doors": {}
+    },
+    "room_397": {
+        "locking_door_name": "stru_21228",
+        "doors": {}
+    },
+    "room_398": {
+        "locking_door_name": "stru_21250",
+        "doors": {}
+    },
+    "room_399": {
+        "locking_door_name": "stru_21278",
+        "doors": {}
+    },
+    "room_400": {
+        "locking_door_name": "stru_212A0",
+        "doors": {}
+    },
+    "room_401": {
+        "locking_door_name": "stru_212C8",
+        "doors": {
+            "stru_20EE0": 111
+        }
+    },
+    "room_402": {
+        "locking_door_name": "stru_212F0",
+        "doors": {
+            "stru_22678": 102
+        }
+    },
+    "room_403": {
+        "locking_door_name": "stru_21318",
+        "doors": {}
+    },
+    "room_404": {
+        "locking_door_name": "stru_21340",
+        "doors": {
+            "stru_21728": 105,
+            "stru_226C8": 102
+        }
+    },
+    "room_405": {
+        "locking_door_name": "stru_21368",
+        "doors": {}
+    },
+    "room_406": {
+        "locking_door_name": "stru_21390",
+        "doors": {}
+    },
+    "room_407": {
+        "locking_door_name": "stru_213B8",
+        "doors": {}
+    },
+    "room_408": {
+        "locking_door_name": "stru_213E0",
+        "doors": {}
+    },
+    "room_409": {
+        "locking_door_name": "stru_21408",
+        "doors": {}
+    },
+    "room_410": {
+        "locking_door_name": "stru_21430",
+        "doors": {}
+    },
+    "room_411": {
+        "locking_door_name": "stru_21458",
+        "doors": {}
+    },
+    "room_412": {
+        "locking_door_name": "stru_21480",
+        "doors": {
+            "stru_213B8": 100,
+            "stru_22808": 102,
+            "stru_21098": 111
+        }
+    },
+    "room_413": {
+        "locking_door_name": "stru_214A8",
+        "doors": {
+            "stru_21570": 117
+        }
+    },
+    "room_414": {
+        "locking_door_name": "stru_214D0",
+        "doors": {
+            "stru_20148": 98
+        }
+    },
+    "room_415": {
+        "locking_door_name": "stru_214F8",
+        "doors": {
+            "stru_22880": 102
+        }
+    },
+    "room_416": {
+        "locking_door_name": "stru_21520",
+        "doors": {}
+    },
+    "room_417": {
+        "locking_door_name": "stru_21548",
+        "doors": {
+            "stru_21520": 108,
+            "stru_21930": 105
+        }
+    },
+    "room_418": {
+        "locking_door_name": "stru_21570",
+        "doors": {
+            "stru_21638": 117,
+            "stru_21188": 111
+        }
+    },
+    "room_419": {
+        "locking_door_name": "stru_21598",
+        "doors": {
+            "stru_21660": 117,
+            "stru_21980": 105,
+            "stru_214D0": 100
+        }
+    },
+    "room_420": {
+        "locking_door_name": "stru_215C0",
+        "doors": {}
+    },
+    "room_421": {
+        "locking_door_name": "stru_215E8",
+        "doors": {}
+    },
+    "room_422": {
+        "locking_door_name": "stru_21610",
+        "doors": {
+            "stru_21548": 100
+        }
+    },
+    "room_423": {
+        "locking_door_name": "stru_21638",
+        "doors": {}
+    },
+    "room_424": {
+        "locking_door_name": "stru_21660",
+        "doors": {}
+    },
+    "room_425": {
+        "locking_door_name": "stru_21688",
+        "doors": {}
+    },
+    "room_426": {
+        "locking_door_name": "stru_216B0",
+        "doors": {
+            "stru_21778": 117,
+            "stru_216D8": 114,
+            "stru_212C8": 111
+        }
+    },
+    "room_427": {
+        "locking_door_name": "stru_216D8",
+        "doors": {}
+    },
+    "room_428": {
+        "locking_door_name": "stru_21700",
+        "doors": {}
+    },
+    "room_429": {
+        "locking_door_name": "stru_21728",
+        "doors": {}
+    },
+    "room_430": {
+        "locking_door_name": "stru_21750",
+        "doors": {
+            "stru_203C8": 98
+        }
+    },
+    "room_431": {
+        "locking_door_name": "stru_21778",
+        "doors": {}
+    },
+    "room_432": {
+        "locking_door_name": "stru_217A0",
+        "doors": {
+            "stru_217C8": 114
+        }
+    },
+    "room_433": {
+        "locking_door_name": "stru_217C8",
+        "doors": {
+            "stru_213E0": 111,
+            "stru_21890": 117
+        }
+    },
+    "room_434": {
+        "locking_door_name": "stru_217F0",
+        "doors": {}
+    },
+    "room_435": {
+        "locking_door_name": "stru_21818",
+        "doors": {
+            "stru_22BA0": 102,
+            "stru_21750": 100,
+            "stru_21430": 111
+        }
+    },
+    "room_436": {
+        "locking_door_name": "stru_21840",
+        "doors": {
+            "stru_21868": 114
+        }
+    },
+    "room_437": {
+        "locking_door_name": "stru_21868",
+        "doors": {
+            "stru_21480": 111
+        }
+    },
+    "room_438": {
+        "locking_door_name": "stru_21890",
+        "doors": {
+            "stru_21958": 117,
+            "stru_20508": 98,
+            "stru_214A8": 111
+        }
+    },
+    "room_439": {
+        "locking_door_name": "stru_218B8",
+        "doors": {}
+    },
+    "room_440": {
+        "locking_door_name": "stru_218E0",
+        "doors": {
+            "stru_22C68": 102,
+            "stru_21818": 100
+        }
+    },
+    "room_441": {
+        "locking_door_name": "stru_21908",
+        "doors": {
+            "stru_20580": 98,
+            "stru_218E0": 108
+        }
+    },
+    "room_442": {
+        "locking_door_name": "stru_21930",
+        "doors": {
+            "stru_22CB8": 102
+        }
+    },
+    "room_443": {
+        "locking_door_name": "stru_21958",
+        "doors": {}
+    },
+    "room_444": {
+        "locking_door_name": "stru_21980",
+        "doors": {}
+    },
+    "room_445": {
+        "locking_door_name": "stru_219A8",
+        "doors": {}
+    },
+    "room_446": {
+        "locking_door_name": "stru_219D0",
+        "doors": {
+            "stru_22D58": 102
+        }
+    },
+    "room_447": {
+        "locking_door_name": "stru_219F8",
+        "doors": {
+            "stru_20670": 98
+        }
+    },
+    "room_448": {
+        "locking_door_name": "stru_21A20",
+        "doors": {
+            "stru_22DA8": 102,
+            "stru_219F8": 108
+        }
+    },
+    "room_449": {
+        "locking_door_name": "stru_21A48",
+        "doors": {
+            "stru_22DD0": 102,
+            "stru_21A20": 108
+        }
+    },
+    "room_450": {
+        "locking_door_name": "stru_21A70",
+        "doors": {
+            "stru_22DF8": 102
+        }
+    },
+    "room_451": {
+        "locking_door_name": "stru_21A98",
+        "doors": {}
+    },
+    "room_452": {
+        "locking_door_name": "stru_21AC0",
+        "doors": {
+            "stru_21B88": 117
+        }
+    },
+    "room_453": {
+        "locking_door_name": "stru_21AE8",
+        "doors": {
+            "stru_21700": 111,
+            "stru_21ED0": 105
+        }
+    },
+    "room_454": {
+        "locking_door_name": "stru_21B10",
+        "doors": {
+            "stru_22E98": 102
+        }
+    },
+    "room_455": {
+        "locking_door_name": "stru_21B38",
+        "doors": {
+            "stru_21F20": 105
+        }
+    },
+    "room_456": {
+        "locking_door_name": "stru_21B60",
+        "doors": {}
+    },
+    "room_457": {
+        "locking_door_name": "stru_21B88",
+        "doors": {
+            "stru_21F70": 105
+        }
+    },
+    "room_458": {
+        "locking_door_name": "stru_21BB0",
+        "doors": {
+            "stru_21AE8": 100
+        }
+    },
+    "room_459": {
+        "locking_door_name": "stru_21BD8",
+        "doors": {
+            "stru_217F0": 111,
+            "stru_21FC0": 105,
+            "stru_21B10": 100
+        }
+    },
+    "room_460": {
+        "locking_door_name": "stru_21C00",
+        "doors": {}
+    },
+    "room_461": {
+        "locking_door_name": "stru_21C28",
+        "doors": {}
+    },
+    "room_462": {
+        "locking_door_name": "stru_21C50",
+        "doors": {
+            "stru_21D18": 117
+        }
+    },
+    "room_463": {
+        "locking_door_name": "stru_21C78",
+        "doors": {}
+    },
+    "room_464": {
+        "locking_door_name": "stru_21CA0",
+        "doors": {
+            "stru_21BD8": 100
+        }
+    },
+    "room_465": {
+        "locking_door_name": "stru_21CC8",
+        "doors": {
+            "stru_21C00": 100,
+            "stru_23050": 102,
+            "stru_20940": 98
+        }
+    },
+    "room_466": {
+        "locking_door_name": "stru_21CF0",
+        "doors": {}
+    },
+    "room_467": {
+        "locking_door_name": "stru_21D18",
+        "doors": {
+            "stru_22100": 105
+        }
+    },
+    "room_468": {
+        "locking_door_name": "stru_21D40",
+        "doors": {}
+    },
+    "room_469": {
+        "locking_door_name": "stru_21D68",
+        "doors": {
+            "stru_230F0": 102,
+            "stru_21E30": 117
+        }
+    },
+    "room_470": {
+        "locking_door_name": "stru_21D90",
+        "doors": {}
+    },
+    "room_471": {
+        "locking_door_name": "stru_21DB8",
+        "doors": {
+            "stru_23140": 102,
+            "stru_21D90": 108,
+            "stru_219D0": 111
+        }
+    },
+    "room_472": {
+        "locking_door_name": "stru_21DE0",
+        "doors": {}
+    },
+    "room_473": {
+        "locking_door_name": "stru_21E08",
+        "doors": {}
+    },
+    "room_474": {
+        "locking_door_name": "stru_21E30",
+        "doors": {
+            "stru_231B8": 102,
+            "stru_21A48": 111
+        }
+    },
+    "room_475": {
+        "locking_door_name": "stru_21E58",
+        "doors": {
+            "stru_231E0": 102,
+            "stru_21E80": 114
+        }
+    },
+    "room_476": {
+        "locking_door_name": "stru_21E80",
+        "doors": {
+            "stru_23208": 102
+        }
+    },
+    "room_477": {
+        "locking_door_name": "stru_21EA8",
+        "doors": {}
+    },
+    "room_478": {
+        "locking_door_name": "stru_21ED0",
+        "doors": {
+            "stru_21EF8": 114,
+            "stru_21EA8": 108,
+            "stru_20B48": 98
+        }
+    },
+    "room_479": {
+        "locking_door_name": "stru_21EF8",
+        "doors": {}
+    },
+    "room_480": {
+        "locking_door_name": "stru_21F20",
+        "doors": {
+            "stru_21E58": 100
+        }
+    },
+    "room_481": {
+        "locking_door_name": "stru_21F48",
+        "doors": {}
+    },
+    "room_482": {
+        "locking_door_name": "stru_21F70",
+        "doors": {
+            "stru_22038": 117,
+            "stru_21F98": 114,
+            "stru_20BE8": 98
+        }
+    },
+    "room_483": {
+        "locking_door_name": "stru_21F98",
+        "doors": {}
+    },
+    "room_484": {
+        "locking_door_name": "stru_21FC0",
+        "doors": {}
+    },
+    "room_485": {
+        "locking_door_name": "stru_21FE8",
+        "doors": {}
+    },
+    "room_486": {
+        "locking_door_name": "stru_22010",
+        "doors": {
+            "stru_21C28": 111,
+            "stru_21F48": 100,
+            "stru_220D8": 117
+        }
+    },
+    "room_487": {
+        "locking_door_name": "stru_22038",
+        "doors": {}
+    },
+    "room_488": {
+        "locking_door_name": "stru_22060",
+        "doors": {
+            "stru_233E8": 102
+        }
+    },
+    "room_489": {
+        "locking_door_name": "stru_22088",
+        "doors": {}
+    },
+    "room_490": {
+        "locking_door_name": "stru_220B0",
+        "doors": {
+            "stru_22178": 117,
+            "stru_23438": 102,
+            "stru_21CC8": 111
+        }
+    },
+    "room_491": {
+        "locking_door_name": "stru_220D8",
+        "doors": {
+            "stru_220B0": 108
+        }
+    },
+    "room_492": {
+        "locking_door_name": "stru_22100",
+        "doors": {}
+    },
+    "room_493": {
+        "locking_door_name": "stru_22128",
+        "doors": {}
+    },
+    "room_494": {
+        "locking_door_name": "stru_22150",
+        "doors": {
+            "stru_22088": 100,
+            "stru_234D8": 102,
+            "stru_21D68": 111
+        }
+    },
+    "room_495": {
+        "locking_door_name": "stru_22178",
+        "doors": {}
+    },
+    "room_496": {
+        "locking_door_name": "stru_221A0",
+        "doors": {
+            "stru_21DB8": 111
+        }
+    },
+    "room_497": {
+        "locking_door_name": "stru_221C8",
+        "doors": {}
+    },
+    "room_498": {
+        "locking_door_name": "stru_221F0",
+        "doors": {
+            "stru_21E08": 111,
+            "stru_22128": 100,
+            "stru_23578": 102
+        }
+    },
+    "room_499": {
+        "locking_door_name": "stru_22218",
+        "doors": {
+            "stru_22150": 100
+        }
+    },
+    "room_500": {
+        "locking_door_name": "stru_22240",
+        "doors": {}
+    },
+    "room_501": {
+        "locking_door_name": "stru_22268",
+        "doors": {
+            "stru_22290": 114,
+            "stru_22330": 117
+        }
+    },
+    "room_502": {
+        "locking_door_name": "stru_22290",
+        "doors": {}
+    },
+    "room_503": {
+        "locking_door_name": "stru_222B8",
+        "doors": {}
+    },
+    "room_504": {
+        "locking_door_name": "stru_222E0",
+        "doors": {}
+    },
+    "room_505": {
+        "locking_door_name": "stru_22308",
+        "doors": {}
+    },
+    "room_506": {
+        "locking_door_name": "stru_22330",
+        "doors": {
+            "stru_223F8": 117,
+            "stru_22358": 114
+        }
+    },
+    "room_507": {
+        "locking_door_name": "stru_22358",
+        "doors": {
+            "stru_22740": 105,
+            "stru_22380": 114
+        }
+    },
+    "room_508": {
+        "locking_door_name": "stru_22380",
+        "doors": {
+            "stru_223A8": 114,
+            "stru_22768": 105,
+            "stru_222B8": 100
+        }
+    },
+    "room_509": {
+        "locking_door_name": "stru_223A8",
+        "doors": {}
+    },
+    "room_510": {
+        "locking_door_name": "stru_223D0",
+        "doors": {}
+    },
+    "room_511": {
+        "locking_door_name": "stru_223F8",
+        "doors": {
+            "stru_223D0": 108
+        }
+    },
+    "room_512": {
+        "locking_door_name": "stru_22420",
+        "doors": {}
+    },
+    "room_513": {
+        "locking_door_name": "stru_22448",
+        "doors": {}
+    },
+    "room_514": {
+        "locking_door_name": "stru_22470",
+        "doors": {}
+    },
+    "room_515": {
+        "locking_door_name": "stru_22498",
+        "doors": {}
+    },
+    "room_516": {
+        "locking_door_name": "stru_224C0",
+        "doors": {}
+    },
+    "room_517": {
+        "locking_door_name": "stru_224E8",
+        "doors": {
+            "stru_22510": 114,
+            "stru_224C0": 108,
+            "stru_225B0": 117
+        }
+    },
+    "room_518": {
+        "locking_door_name": "stru_22510",
+        "doors": {}
+    },
+    "room_519": {
+        "locking_door_name": "stru_22538",
+        "doors": {
+            "stru_22470": 100,
+            "stru_22920": 105
+        }
+    },
+    "room_520": {
+        "locking_door_name": "stru_22560",
+        "doors": {
+            "stru_22498": 100,
+            "stru_211D8": 98
+        }
+    },
+    "room_521": {
+        "locking_door_name": "stru_22588",
+        "doors": {}
+    },
+    "room_522": {
+        "locking_door_name": "stru_225B0",
+        "doors": {
+            "stru_22588": 108,
+            "stru_21228": 98,
+            "stru_225D8": 114
+        }
+    },
+    "room_523": {
+        "locking_door_name": "stru_225D8",
+        "doors": {
+            "stru_22600": 114
+        }
+    },
+    "room_524": {
+        "locking_door_name": "stru_22600",
+        "doors": {
+            "stru_229E8": 105,
+            "stru_22538": 100
+        }
+    },
+    "room_525": {
+        "locking_door_name": "stru_22628",
+        "doors": {
+            "stru_226F0": 117
+        }
+    },
+    "room_526": {
+        "locking_door_name": "stru_22650",
+        "doors": {
+            "stru_22268": 111
+        }
+    },
+    "room_527": {
+        "locking_door_name": "stru_22678",
+        "doors": {}
+    },
+    "room_528": {
+        "locking_door_name": "stru_226A0",
+        "doors": {}
+    },
+    "room_529": {
+        "locking_door_name": "stru_226C8",
+        "doors": {
+            "stru_222E0": 111,
+            "stru_22AB0": 105
+        }
+    },
+    "room_530": {
+        "locking_door_name": "stru_226F0",
+        "doors": {
+            "stru_22308": 111,
+            "stru_22718": 114
+        }
+    },
+    "room_531": {
+        "locking_door_name": "stru_22718",
+        "doors": {
+            "stru_22B00": 105,
+            "stru_21390": 98,
+            "stru_22650": 100
+        }
+    },
+    "room_532": {
+        "locking_door_name": "stru_22740",
+        "doors": {}
+    },
+    "room_533": {
+        "locking_door_name": "stru_22768",
+        "doors": {
+            "stru_22790": 114,
+            "stru_22830": 117
+        }
+    },
+    "room_534": {
+        "locking_door_name": "stru_22790",
+        "doors": {}
+    },
+    "room_535": {
+        "locking_door_name": "stru_227B8",
+        "doors": {}
+    },
+    "room_536": {
+        "locking_door_name": "stru_227E0",
+        "doors": {}
+    },
+    "room_537": {
+        "locking_door_name": "stru_22808",
+        "doors": {}
+    },
+    "room_538": {
+        "locking_door_name": "stru_22830",
+        "doors": {
+            "stru_22858": 114
+        }
+    },
+    "room_539": {
+        "locking_door_name": "stru_22858",
+        "doors": {
+            "stru_22C40": 105
+        }
+    },
+    "room_540": {
+        "locking_door_name": "stru_22880",
+        "doors": {
+            "stru_227B8": 100,
+            "stru_22948": 117
+        }
+    },
+    "room_541": {
+        "locking_door_name": "stru_228A8",
+        "doors": {}
+    },
+    "room_542": {
+        "locking_door_name": "stru_228D0",
+        "doors": {
+            "stru_228F8": 114,
+            "stru_228A8": 108,
+            "stru_224E8": 111
+        }
+    },
+    "room_543": {
+        "locking_door_name": "stru_228F8",
+        "doors": {}
+    },
+    "room_544": {
+        "locking_door_name": "stru_22920",
+        "doors": {
+            "stru_22D08": 105,
+            "stru_21598": 98
+        }
+    },
+    "room_545": {
+        "locking_door_name": "stru_22948",
+        "doors": {
+            "stru_22560": 111
+        }
+    },
+    "room_546": {
+        "locking_door_name": "stru_22970",
+        "doors": {
+            "stru_22998": 114,
+            "stru_215E8": 98
+        }
+    },
+    "room_547": {
+        "locking_door_name": "stru_22998",
+        "doors": {
+            "stru_229C0": 114
+        }
+    },
+    "room_548": {
+        "locking_door_name": "stru_229C0",
+        "doors": {}
+    },
+    "room_549": {
+        "locking_door_name": "stru_229E8",
+        "doors": {}
+    },
+    "room_550": {
+        "locking_door_name": "stru_22A10",
+        "doors": {
+            "stru_22AD8": 117,
+            "stru_22628": 111
+        }
+    },
+    "room_551": {
+        "locking_door_name": "stru_22A38",
+        "doors": {
+            "stru_216B0": 98
+        }
+    },
+    "room_552": {
+        "locking_door_name": "stru_22A60",
+        "doors": {}
+    },
+    "room_553": {
+        "locking_door_name": "stru_22A88",
+        "doors": {
+            "stru_226A0": 111,
+            "stru_22A60": 108,
+            "stru_22B50": 117
+        }
+    },
+    "room_554": {
+        "locking_door_name": "stru_22AB0",
+        "doors": {
+            "stru_22B78": 117,
+            "stru_22A88": 108
+        }
+    },
+    "room_555": {
+        "locking_door_name": "stru_22AD8",
+        "doors": {}
+    },
+    "room_556": {
+        "locking_door_name": "stru_22B00",
+        "doors": {}
+    },
+    "room_557": {
+        "locking_door_name": "stru_22B28",
+        "doors": {
+            "stru_217A0": 98
+        }
+    },
+    "room_558": {
+        "locking_door_name": "stru_22B50",
+        "doors": {
+            "stru_22B28": 108
+        }
+    },
+    "room_559": {
+        "locking_door_name": "stru_22B78",
+        "doors": {}
+    },
+    "room_560": {
+        "locking_door_name": "stru_22BA0",
+        "doors": {}
+    },
+    "room_561": {
+        "locking_door_name": "stru_22BC8",
+        "doors": {
+            "stru_227E0": 111
+        }
+    },
+    "room_562": {
+        "locking_door_name": "stru_22BF0",
+        "doors": {
+            "stru_22BC8": 108
+        }
+    },
+    "room_563": {
+        "locking_door_name": "stru_22C18",
+        "doors": {}
+    },
+    "room_564": {
+        "locking_door_name": "stru_22C40",
+        "doors": {
+            "stru_23028": 105
+        }
+    },
+    "room_565": {
+        "locking_door_name": "stru_22C68",
+        "doors": {
+            "stru_22D30": 117
+        }
+    },
+    "room_566": {
+        "locking_door_name": "stru_22C90",
+        "doors": {
+            "stru_21908": 98
+        }
+    },
+    "room_567": {
+        "locking_door_name": "stru_22CB8",
+        "doors": {
+            "stru_228D0": 111
+        }
+    },
+    "room_568": {
+        "locking_door_name": "stru_22CE0",
+        "doors": {}
+    },
+    "room_569": {
+        "locking_door_name": "stru_22D08",
+        "doors": {}
+    },
+    "room_570": {
+        "locking_door_name": "stru_22D30",
+        "doors": {
+            "stru_23118": 105
+        }
+    },
+    "room_571": {
+        "locking_door_name": "stru_22D58",
+        "doors": {
+            "stru_22C90": 100,
+            "stru_22970": 111
+        }
+    },
+    "room_572": {
+        "locking_door_name": "stru_22D80",
+        "doors": {}
+    },
+    "room_573": {
+        "locking_door_name": "stru_22DA8",
+        "doors": {
+            "stru_23190": 105
+        }
+    },
+    "room_574": {
+        "locking_door_name": "stru_22DD0",
+        "doors": {}
+    },
+    "room_575": {
+        "locking_door_name": "stru_22DF8",
+        "doors": {
+            "stru_22A10": 111
+        }
+    },
+    "room_576": {
+        "locking_door_name": "stru_22E20",
+        "doors": {
+            "stru_22A38": 111
+        }
+    },
+    "room_577": {
+        "locking_door_name": "stru_22E48",
+        "doors": {}
+    },
+    "room_578": {
+        "locking_door_name": "stru_22E70",
+        "doors": {}
+    },
+    "room_579": {
+        "locking_door_name": "stru_22E98",
+        "doors": {
+            "stru_23280": 105
+        }
+    },
+    "room_580": {
+        "locking_door_name": "stru_22EC0",
+        "doors": {
+            "stru_21B38": 98
+        }
+    },
+    "room_581": {
+        "locking_door_name": "stru_22EE8",
+        "doors": {
+            "stru_21B60": 98,
+            "stru_22FB0": 117
+        }
+    },
+    "room_582": {
+        "locking_door_name": "stru_22F10",
+        "doors": {
+            "stru_22E48": 100,
+            "stru_22EE8": 108
+        }
+    },
+    "room_583": {
+        "locking_door_name": "stru_22F38",
+        "doors": {
+            "stru_22E70": 100,
+            "stru_22F60": 114,
+            "stru_21BB0": 98
+        }
+    },
+    "room_584": {
+        "locking_door_name": "stru_22F60",
+        "doors": {}
+    },
+    "room_585": {
+        "locking_door_name": "stru_22F88",
+        "doors": {
+            "stru_22EC0": 100
+        }
+    },
+    "room_586": {
+        "locking_door_name": "stru_22FB0",
+        "doors": {
+            "stru_22FD8": 114,
+            "stru_23398": 105
+        }
+    },
+    "room_587": {
+        "locking_door_name": "stru_22FD8",
+        "doors": {
+            "stru_22BF0": 111,
+            "stru_21C50": 98
+        }
+    },
+    "room_588": {
+        "locking_door_name": "stru_23000",
+        "doors": {
+            "stru_21C78": 98,
+            "stru_22C18": 111,
+            "stru_22F38": 100
+        }
+    },
+    "room_589": {
+        "locking_door_name": "stru_23028",
+        "doors": {
+            "stru_23410": 105,
+            "stru_21CA0": 98
+        }
+    },
+    "room_590": {
+        "locking_door_name": "stru_23050",
+        "doors": {}
+    },
+    "room_591": {
+        "locking_door_name": "stru_23078",
+        "doors": {}
+    },
+    "room_592": {
+        "locking_door_name": "stru_230A0",
+        "doors": {
+            "stru_230C8": 114
+        }
+    },
+    "room_593": {
+        "locking_door_name": "stru_230C8",
+        "doors": {
+            "stru_22CE0": 111,
+            "stru_21D40": 98,
+            "stru_23000": 100
+        }
+    },
+    "room_594": {
+        "locking_door_name": "stru_230F0",
+        "doors": {}
+    },
+    "room_595": {
+        "locking_door_name": "stru_23118",
+        "doors": {
+            "stru_23500": 105
+        }
+    },
+    "room_596": {
+        "locking_door_name": "stru_23140",
+        "doors": {}
+    },
+    "room_597": {
+        "locking_door_name": "stru_23168",
+        "doors": {
+            "stru_21DE0": 98,
+            "stru_22D80": 111,
+            "stru_230A0": 100
+        }
+    },
+    "room_598": {
+        "locking_door_name": "stru_23190",
+        "doors": {}
+    },
+    "room_599": {
+        "locking_door_name": "stru_231B8",
+        "doors": {
+            "stru_235A0": 105
+        }
+    },
+    "room_600": {
+        "locking_door_name": "stru_231E0",
+        "doors": {}
+    },
+    "room_601": {
+        "locking_door_name": "stru_23208",
+        "doors": {
+            "stru_22E20": 111
+        }
+    },
+    "room_602": {
+        "locking_door_name": "stru_23230",
+        "doors": {}
+    },
+    "room_603": {
+        "locking_door_name": "stru_23258",
+        "doors": {
+            "stru_23230": 108,
+            "stru_23320": 117
+        }
+    },
+    "room_604": {
+        "locking_door_name": "stru_23280",
+        "doors": {
+            "stru_23258": 108
+        }
+    },
+    "room_605": {
+        "locking_door_name": "stru_232A8",
+        "doors": {}
+    },
+    "room_606": {
+        "locking_door_name": "stru_232D0",
+        "doors": {}
+    },
+    "room_607": {
+        "locking_door_name": "stru_232F8",
+        "doors": {
+            "stru_232D0": 108,
+            "stru_22F10": 111
+        }
+    },
+    "room_608": {
+        "locking_door_name": "stru_23320",
+        "doors": {
+            "stru_23348": 114,
+            "stru_232F8": 108
+        }
+    },
+    "room_609": {
+        "locking_door_name": "stru_23348",
+        "doors": {}
+    },
+    "room_610": {
+        "locking_door_name": "stru_23370",
+        "doors": {
+            "stru_232A8": 100,
+            "stru_21FE8": 98,
+            "stru_22F88": 111
+        }
+    },
+    "room_611": {
+        "locking_door_name": "stru_23398",
+        "doors": {
+            "stru_23460": 117,
+            "stru_233C0": 114,
+            "stru_23370": 108
+        }
+    },
+    "room_612": {
+        "locking_door_name": "stru_233C0",
+        "doors": {}
+    },
+    "room_613": {
+        "locking_door_name": "stru_233E8",
+        "doors": {
+            "stru_234B0": 117
+        }
+    },
+    "room_614": {
+        "locking_door_name": "stru_23410",
+        "doors": {}
+    },
+    "room_615": {
+        "locking_door_name": "stru_23438",
+        "doors": {}
+    },
+    "room_616": {
+        "locking_door_name": "stru_23460",
+        "doors": {
+            "stru_23078": 111
+        }
+    },
+    "room_617": {
+        "locking_door_name": "stru_23488",
+        "doors": {}
+    },
+    "room_618": {
+        "locking_door_name": "stru_234B0",
+        "doors": {}
+    },
+    "room_619": {
+        "locking_door_name": "stru_234D8",
+        "doors": {}
+    },
+    "room_620": {
+        "locking_door_name": "stru_23500",
+        "doors": {}
+    },
+    "room_621": {
+        "locking_door_name": "stru_23528",
+        "doors": {}
+    },
+    "room_622": {
+        "locking_door_name": "stru_23550",
+        "doors": {
+            "stru_23528": 108,
+            "stru_23488": 100,
+            "stru_23168": 111
+        }
+    },
+    "room_623": {
+        "locking_door_name": "stru_23578",
+        "doors": {
+            "stru_23550": 108
+        }
+    },
+    "room_624": {
+        "locking_door_name": "stru_235A0",
+        "doors": {
+            "exit_door": 114
+        }
+    }
+}
