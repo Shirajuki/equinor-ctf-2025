@@ -46,6 +46,7 @@ Steps:
 	 - [synapse_burnout](/writeups/web/Of%20CORS%20I%20Can%20Help!/synapse_burnout)  
  - **[ScriptMe](/writeups/web/ScriptMe)**
  - **[EPT Cinemas](/writeups/web/EPT%20Cinemas)**
+	 - [big](/writeups/web/EPT%20Cinemas/big)  
 	 - [B00S](/writeups/web/EPT%20Cinemas/B00S)  
 	 - [sifi](/writeups/web/EPT%20Cinemas/sifi)  
  - **[Secretadmin](/writeups/web/Secretadmin)**
