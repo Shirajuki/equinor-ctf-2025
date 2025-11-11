@@ -42,7 +42,7 @@ import createChunk from "prismarine-chunk";
 
 const ChunkColumn = createChunk("1.12.2");
 
-const socket = io("https://ikutoppene-b5e29512-web.ept.gg", {
+const socket = io("https://ikutoppene-REDACTED-web.ept.gg", {
   transports: ["websocket"],
 });
 
