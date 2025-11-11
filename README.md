@@ -144,6 +144,7 @@ Steps:
 	 - [bootplug](/writeups/onsite/A-maze%20a-maze%20a-mazing/bootplug)  
 ### forensics
  - **[Home Intrusion 2](/writeups/forensics/Home%20Intrusion%202)**
+	 - [highly-regarded](/writeups/forensics/Home%20Intrusion%202/highly-regarded)  
  - **[Insecure Exfil](/writeups/forensics/Insecure%20Exfil)**
 	 - [Trånn Jånn](/writeups/forensics/Insecure%20Exfil/Trånn%20Jånn)  
 	 - [bwnfools](/writeups/forensics/Insecure%20Exfil/bwnfools)  
