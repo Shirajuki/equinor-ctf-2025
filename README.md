@@ -87,12 +87,15 @@ Steps:
  - **[PotatoHead (user)](/writeups/boot2root/PotatoHead%20(user))**
 	 - [bwnfools](/writeups/boot2root/PotatoHead%20(user)/bwnfools)  
 	 - [RumbleInTheJungle](/writeups/boot2root/PotatoHead%20(user)/RumbleInTheJungle)  
+	 - [WinnieThePwn](/writeups/boot2root/PotatoHead%20(user)/WinnieThePwn)  
  - **[FOMO (root)](/writeups/boot2root/FOMO%20(root))**
  - **[FOMO (user)](/writeups/boot2root/FOMO%20(user))**
  - **[PotatoHead (root)](/writeups/boot2root/PotatoHead%20(root))**
 	 - [RumbleInTheJungle](/writeups/boot2root/PotatoHead%20(root)/RumbleInTheJungle)  
+	 - [WinnieThePwn](/writeups/boot2root/PotatoHead%20(root)/WinnieThePwn)  
 ### sanity
  - **[EPTBOX](/writeups/sanity/EPTBOX)**
+	 - [WinnieThePwn](/writeups/sanity/EPTBOX/WinnieThePwn)  
  - **[(in)Sanity](/writeups/sanity/(in)Sanity)**
  - **[Badge Flag](/writeups/sanity/Badge%20Flag)**
  - **[Confirm attendance](/writeups/sanity/Confirm%20attendance)**
