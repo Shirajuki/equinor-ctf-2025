@@ -117,6 +117,7 @@ Steps:
  - **[Zippy](/writeups/misc/Zippy)**
  - **[Cubeguessr](/writeups/misc/Cubeguessr)**
 	 - [Iku-toppene](/writeups/misc/Cubeguessr/Iku-toppene)  
+	 - [Girls Night Out](/writeups/misc/Cubeguessr/Girls%20Night%20Out)  
  - **[Agents](/writeups/misc/Agents)**
 	 - [UiACTF](/writeups/misc/Agents/UiACTF)  
 	 - [bwnfools](/writeups/misc/Agents/bwnfools)  
