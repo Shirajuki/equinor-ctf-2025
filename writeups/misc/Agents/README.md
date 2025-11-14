@@ -1,6 +1,7 @@
 # Agents
 Author: starsiv
 
+Flag: `EPT{D1d_y0u_ju57_l13_70_7h3_Ag3n7s?}`
 ## Description
 ```
 With agents you do not even have to Vibe code! Just instruct the agents on what to do, and software is ready to ship!

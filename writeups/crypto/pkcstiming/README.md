@@ -1,6 +1,7 @@
 # pkcstiming
 Author: hidlen
 
+Flag: `EPT{17_15_4LL_4B0U7_71M1NG}`
 ## Description
 ```
 You've discovered a misconfigured oracle. During your investigation, you've intercepted a message—along with its corresponding public key.

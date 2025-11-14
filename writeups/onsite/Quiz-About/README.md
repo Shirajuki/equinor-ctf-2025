@@ -1,6 +1,7 @@
 # Quiz-About
 Author: hidle
 
+Flag: `EPT{1t_t4k35_m0r3_th4n_qu3zzw0rk}`
 ## Description
 ```
 Quiz your way to the flag: 

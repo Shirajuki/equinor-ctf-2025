@@ -1,6 +1,7 @@
 # Norges Aller Beste Hacker - Level 2
 Author: klarz
 
+Flag: `EPT{m4st3rm1nd_brut3f0rc3_p4t13nc3_r3w4rd3d!}`
 ## Description
 ```
 Welcome to our most "advanced" cybersecurity challenge! 

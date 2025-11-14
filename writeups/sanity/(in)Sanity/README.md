@@ -1,6 +1,7 @@
 # (in)Sanity
 Author: klarz
 
+Flag: `EPT{w3lc0m3!_h0p3_y0u_d1dnt_r3v3rs3_th1s}`
 ## Description
 ```
 Just run the curl command in your **Linux** terminal to automatically solve the challenge! (yes, really)

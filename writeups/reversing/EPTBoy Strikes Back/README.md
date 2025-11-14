@@ -1,6 +1,7 @@
 # EPTBoy Strikes Back
 Author: vcpo
 
+Flag: `EPT{well_played_or_revd?}`
 ## Description
 ```
 There might be more to EPTBoy than what you see in the first challenge. Try to see if you can unlock the rest of the game and find the flag.

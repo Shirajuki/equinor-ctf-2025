@@ -1,6 +1,7 @@
 # LOUD CRM
 Author: blokli
 
+Flag: `EPT{LOUD_HANDLE_OVERRIDE}`
 ## Description
 ```
 Our new CRM platform SHOUTS EVERYTHING because the developer thought it would "improve readability."

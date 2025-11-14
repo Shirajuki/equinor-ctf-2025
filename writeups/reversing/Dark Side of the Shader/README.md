@@ -1,6 +1,7 @@
 # Dark Side of the Shader
 Author: surprior
 
+Flag: `EPT{kd0CtuLy77XCnlSeZP}`
 ## Description
 ```
 Show me the rainbow on the Dark Side of the Moon!

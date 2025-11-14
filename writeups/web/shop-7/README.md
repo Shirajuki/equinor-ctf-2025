@@ -1,6 +1,7 @@
 # shop-7
 Author: null
 
+Flag: `EPT{I_gu3s5_n07_s0_pr1v4t3_4f7er_41}`
 ## Description
 ```
 What is an arcade without a retro merch store? We ditched all those fancy new JavaScript frameworks from last year and simply went back to our roots like the good old days!

@@ -1,6 +1,7 @@
 # Of CORS I Can Help!
 Author: blokli
 
+Flag: `EPT{CORS_t0tally_trU5t5_y0u}`
 ## Description
 ```
 Jenny is the corporate concierge who fetches intranet pages so employees don’t have to click around.

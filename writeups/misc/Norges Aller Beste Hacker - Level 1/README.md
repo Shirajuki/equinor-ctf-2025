@@ -1,6 +1,7 @@
 # Norges Aller Beste Hacker - Level 1
 Author: klarz
 
+Flag: `EPT{3z_m0d3_4nsw3rs_sp00n_f3d_t0_y0u}`
 ## Description
 ```
 Welcome to the Norges Aller Beste Hacker qualifications!

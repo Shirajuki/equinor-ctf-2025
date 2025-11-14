@@ -1,6 +1,7 @@
 # Broken Mario 2
 Author: GodVenn
 
+Flag: `EPT{doubl3_ra1nbow}`
 ## Description
 ```
 Help!

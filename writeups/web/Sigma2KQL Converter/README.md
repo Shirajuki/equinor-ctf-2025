@@ -1,6 +1,7 @@
 # 🔥 Sigma2KQL Converter 🔥
 Author: zledge
 
+Flag: `EPT{6929dec8-3312-4341-9ee6-75faacda2562}`
 ## Description
 ```
 A rule conversion service bridges Sigma detections into KQL for a monitoring backend.

@@ -1,6 +1,7 @@
 # Veal and Car's first baby (heap) is all grown up.
 Author: nordbo
 
+Flag: `EPT{hEaPT_CtF_1s_n0t_f0r_b4b13s!}`
 ## Description
 ```
 In 2023 we had an introduction to tcache poisoning challenge called ["Veal and Car's first baby"](https://github.com/ept-team/equinor-ctf-2023/blob/main/writeups/Pwn/Veal%20and%20Car's%20first%20baby%20(heap)/WackAttack/README.md).

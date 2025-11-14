@@ -1,6 +1,7 @@
 # Secretadmin
 Author: iLoop
 
+Flag: `EPT{Cookies_4_the_Win!!}`
 ## Description
 ```
 There are monsters everywhere and they are hungry for cookies. 

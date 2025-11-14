@@ -1,6 +1,7 @@
 # FlagPrinter
 Author: surprior
 
+Flag: `EPT{FOOLEDYOUONCELOL}`
 ## Description
 ```
 Flags are usually **strings** in files, matching the pattern "EPT{...}" where "..." is some text. 

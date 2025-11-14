@@ -1,6 +1,7 @@
 # 🔥 Even moar pixel perfect 🔥
 Author: surprior, nordbo
 
+Flag: `EPT{9b65671ad6_._C0lOurS_._4nD_._L1gHt$_._fcf7b0271b}`
 ## Description
 ```
 A great new feature just appeared on [https://pixelperfect.ept.gg/](https://pixelperfect.ept.gg/)

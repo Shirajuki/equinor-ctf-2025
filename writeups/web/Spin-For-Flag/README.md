@@ -1,6 +1,7 @@
 # Spin-For-Flag 🎡
 Author: blokli
 
+Flag: `EPT{sp1n_th3_wh33l_0f_vuln3r4b1l1ty}`
 ## Description
 ```
 Complete a quick survey and spin the wheel for your chance to win the flag! 

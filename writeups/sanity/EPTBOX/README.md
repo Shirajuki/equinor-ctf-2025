@@ -1,6 +1,7 @@
 # EPTBOX
 Author: EPT
 
+Flag: `EPT{EPTb0x_b3st_b0x!}`
 ## Description
 ```
 There is a flag hidden on your EPTBOX.

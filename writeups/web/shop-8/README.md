@@ -1,6 +1,7 @@
 # shop-8
 Author: null
 
+Flag: `EPT{who_c4r3s_4bou7_sc0p3s_4nyw4y!}`
 ## Description
 ```
 Seems our security measures were not up to par last time, so this time we have increased the security, modernized the aesthetics and made sure that no private details are leaked!

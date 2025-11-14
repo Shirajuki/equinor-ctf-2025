@@ -1,6 +1,7 @@
 # EPTBoy
 Author: vcpo
 
+Flag: `EPT{EPT_BOY_MASTER}`
 ## Description
 ```
 Can you defeat the imperialistic oil polluters and bring back the new republic?

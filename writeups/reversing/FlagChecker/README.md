@@ -1,6 +1,7 @@
 # FlagChecker
 Author: surprior
 
+Flag: `EPT{BUTSECONDTIMEISGREATGOOD}`
 ## Description
 ```
 This one builds on FlagPrinter, but it's a new file!

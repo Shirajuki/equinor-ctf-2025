@@ -1,6 +1,7 @@
 # Badge Flag
 Author: klarz
 
+Flag: `EPT{W3lc0m3_t0_th3_m4g1c4l_w0rld_0f_NFC}`
 ## Description
 ```
 Welcome to the CTF! 🎉

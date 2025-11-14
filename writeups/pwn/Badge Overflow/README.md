@@ -1,6 +1,7 @@
 # Badge Overflow
 Author: klarz
 
+Flag: `EPT{b4dg3_0v3rfl0w_FTW}`
 ## Description
 ```
 We printed about 600 badges for this CTF, talk about a badge overflow! 
