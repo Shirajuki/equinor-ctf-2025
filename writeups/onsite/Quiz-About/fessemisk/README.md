@@ -23,7 +23,7 @@ From previous years, a new meta, or "unintended solve" if you want to call it th
 
 We remember from last year that this was a probable obstacle we would eventually have to face.
 
-![Kriger](images/kriger.png)
+<img alt="Kriger" src="images/kriger.png" width="400">
 
 So it was just a matter of fitting this into our student budget to afford this pay-to-win method:
 
@@ -42,7 +42,7 @@ So it was just a matter of fitting this into our student budget to afford this p
 
 There’s no room for any VOI here. But might it be possible to find alternative funding methods through student sponsorship?
 
-<img alt="Does VOI get covered by oil money?" src="images/voibudget.png" width="150">
+<img alt="Does VOI get covered by oil money?" src="images/voibudget.png" width="400">
 
 With no VOI, there was only one option left. We would need to bring our running shoes. Luckily, nothing could possibly go wrong if we were already deployed early.
 
@@ -50,13 +50,15 @@ When the big screen inside The Hub began counting down, the operation started wi
 
 Then the operations clock struck H-hour and the tasks were released. And now, this is probably Brilles second worst decision, after not buying NVIDIA stocks:
 
-![Brille cant find the challenge?](images/nochallenge.png)
+<img alt="Brille cant find the challenge?" src="images/nochallenge.png" width="400">
 
 All operations were canceled, and the runners were sent back to headquarters for other challenge solving.
 
 So the mood was gloomy. Luckily, after not to many minutes we suspected that the name "Quiz-about" cound be a hint that the task we had been expecting was making a comeback this year as well. However, sjaslik barely managed to get back to HQ before being sent out again. There was apparently a challenge after all, hidden behind a quiz. But will he manage it this time? Without a head start, and without sponsorship for a Voi?
 
-![chall1](images/image-1.png)
+<p align="center">
+    <img alt="Challenge image 1" src="images/image-1.png" width="350">
+</p>
 
 The first location was easily recognized by the local expert on the team, so it was only a quick Google search away to pinpoint the exact location on the map:
 
