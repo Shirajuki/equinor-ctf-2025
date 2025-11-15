@@ -8,7 +8,7 @@ Curvy throws three elliptic-curve puzzles at us.
 Each `.sage` file takes 6 bytes of the flag and transforms it into an elliptic-curve point.  
 Our job is to reverse those transformations and reconstruct the flag.
 
-# I ran everything in SageMath on WSL (Ubuntu 22.04) because the online SageMathCell kept melting. So this write up is mainly for using the local one. Thanks to readme.txt for the recommendation!
+## I ran everything in SageMath on WSL (Ubuntu 22.04) because the online SageMathCell kept melting. So this write up is mainly for using the local one. Thanks to readme.txt for the recommendation!
 [SageMath installation guide here](https://doc.sagemath.org/html/en/installation/index.html)
 
 ---
