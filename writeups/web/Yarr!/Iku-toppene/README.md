@@ -53,7 +53,7 @@ async def fetch_game(request):
 ```
 
 Key observations fer the crew:
-- We hold full sway over `game` (aside from the proxy regex an' sanitizer), an' it be interpolated directly straight into the URL. Tryin' to escape with `@` or `/` fails 'cause the proxy normalizes the path clean.
+- We hold full sway over `game` (aside from the proxy regex an' sanitizer), an' it be interpolated directly straight into the URL. Tryin' to escape with `@`, `/` or `#` fails cause o' the sanitizer an' the proxy normalizes the path clean also.
 - The sanitizer be a soggy biscuit: it swaps forbidden characters fer `.` instead o' scuttlin' 'em, lettin' us reshape the host to taste.
 - The backend always asks fer `/` from the chosen host, so shoutin' `x.marks.the.spot.ept/flag.txt` as the game ain't possible'; the `game` slice becomes part o' the host while the path stays nailed at `/`.
 - `aiohttp`'s `ClientSession.get` follows redirects (`allow_redirects=True`), so any matey that answers with `3XX Location: http://x.marks.the.spot.ept/flag.txt` will have the backend fetch the booty fer us.
