@@ -82,7 +82,7 @@ Since we can make the backend connect t' our server (via dis IPv6 trick), 'n 'ca
 
 An example server fer the job sits in [server.py](./server.py).
 
-Run it on a host the challenge can reach (i.e., from the EPT box). Fire the payload an' the flag comes rushin' back:
+Run it on a host the challenge can reach (i.e., from the EPT box). Make sure the host's network be flyin' the colors o' IPv6. Fire the payload an' the flag comes rushin' back:
 ```sh
 $ sudo python3 server.py &
 $ nslookup ikutoppene-9297aa7d-eptbox.eptc.tf
