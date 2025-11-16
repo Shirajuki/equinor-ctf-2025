@@ -65,7 +65,7 @@ Dat be the key: we do nah needs to steer n' control the path directly, we jus' n
 
 Another crucial detail o' the challenge be dat URLs support literal IPv6 addresses inside square brackets, as defined in [RFC 2732](https://datatracker.ietf.org/doc/html/rfc2732#section-2).
 
-Another interestin' quirk be dat `aiohttp` ignores everythin' aft the closin' `]` when determinin' the connection target. So if the backend constructs `http://[::ffff:3.123.45.67].games.ept:80/`, `aiohttp` parses dis as jus' `http://[::ffff:3.123.45.67]:80/`.
+Another interestin' quirk be dat `aiohttp` / `yarl` ignores everythin' aft the closin' `]` when determinin' the connection target. So if the backend constructs `http://[::ffff:3.123.45.67].games.ept:80/`, `aiohttp` parses dis as jus' `http://[::ffff:3.123.45.67]:80/`.
 
 As a result, the appended `.games.ept` ain't part o' the hostname at all. Dis lets us make the backend connect directly t' an arbitrary IPv6 address we fancy.
 
@@ -82,7 +82,7 @@ Since we can make the backend connect t' our server (via dis IPv6 trick), 'n 'ca
 
 An example server fer the job sits in [server.py](./server.py).
 
-Run it on a host the challenge can reach (i.e., from the EPT box). Make sure the host's network be flyin' the colors o' IPv6. Fire the payload an' the flag comes rushin' back:
+Run it on a host the challenge can reach (i.e., from the EPT box). Make sure the host's network be flyin' the colors o' IPv6. Fire the payload an' the flag comes rushin' back like treasure on the tide!
 ```sh
 $ sudo python3 server.py &
 $ nslookup ikutoppene-9297aa7d-eptbox.eptc.tf
